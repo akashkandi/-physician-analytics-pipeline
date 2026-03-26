@@ -329,8 +329,3 @@ physician-analytics/
 ```
 
 ---
-
-## License
-
-For educational and research purposes. Medicare data analysis methodology
-based on publicly available CMS data schema.
