@@ -1,0 +1,19 @@
+============================================================
+Specialty Cost Variation Insights
+Generated: 2026-03-25 23:31
+============================================================
+
+The most surprising finding is that Thoracic Surgery shows a 3352.8x
+cost variation ratio -- meaning the most expensive provider charges 3352.8
+times more for the same procedure than the least expensive, which is far greater than the
+cross-specialty average of 1153.9x.
+
+For patients and payers, this extreme spread means that geography and provider choice can
+translate into thousands of dollars of unnecessary spending, with no corresponding evidence
+of superior outcomes; Family Medicine by contrast shows relatively stable pricing
+(ratio 175.3x), suggesting those markets are more efficiently priced.
+
+Hospital executives should immediately benchmark their Thoracic Surgery division against
+the specialty median and investigate whether high-cost outliers have corresponding quality
+justifications, targeting the 23,335
+providers in high-variation specialties for utilization management review.

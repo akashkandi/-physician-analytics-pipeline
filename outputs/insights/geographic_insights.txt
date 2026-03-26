@@ -1,0 +1,16 @@
+============================================================
+Geographic Cost Disparity Insights
+Generated: 2026-03-25 23:31
+============================================================
+
+The most surprising finding is that Northeast providers charge 32.8%
+more on average than those in the Midwest, with the single most expensive state being
+ID at a mean Medicare payment of $8,631.
+
+This geographic disparity forces the same Medicare beneficiary to pay dramatically different
+out-of-pocket amounts depending purely on where they live, exacerbating health equity gaps
+and increasing the CMS budget burden in high-cost regions without a clear quality rationale.
+
+CMS and hospital systems in high-cost regions should compare their reimbursement requests to
+the Midwest benchmark, and payers should implement geo-adjusted bundled payment models
+to compress the 32.8% regional premium down to cost-justified levels.

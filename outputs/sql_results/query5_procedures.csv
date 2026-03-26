@@ -1,0 +1,21 @@
+hcpcs_description,providers_performing,avg_cost,min_cost,max_cost,cost_spread
+Operative Ablation Supraventricular,431,7533.96,10.0,33528.48,33518.48
+"Removal of Lung, Single Lobe",425,6666.91,10.0,32824.91,32814.91
+Thoracoscopy Lobectomy,430,6788.23,10.0,31613.61,31603.61
+CABG Arterial Two,385,6863.99,10.0,29310.88,29300.88
+"Chemotherapy, Injection",428,5894.21,10.0,29260.75,29250.75
+CABG Venous Single,447,6633.75,10.0,27310.05,27300.05
+CABG Arterial Single,380,7225.34,10.0,26883.76,26873.76
+Injection Lumbar Epidural Diagnostic,421,3667.73,10.0,25802.99,25792.99
+Screening Mammography,798,3502.3,10.0,25297.95,25287.95
+Bypass Graft Femoral-Popliteal,439,4281.2,10.0,24914.43,24904.43
+Colonoscopy with Biopsy,821,3418.26,10.0,24643.2,24633.2
+Radiation Treatment Planning,422,5823.36,10.0,23530.11,23520.11
+Pleurectomy Partial,418,6470.68,10.0,23055.16,23045.16
+CT Guidance for Needle Placement,421,5888.8,10.0,23039.69,23029.69
+Bone Marrow Aspiration,441,4238.2,10.0,22678.77,22668.77
+"Chemotherapy, Infusion Additional Hour",422,5772.12,10.0,22645.75,22635.75
+"Chemotherapy, Non-Hormonal",417,5576.93,10.0,22256.97,22246.97
+Colectomy Partial with Low Anterior,427,4621.52,10.0,21952.67,21942.67
+Thromboendarterectomy Femoral Artery,452,4307.3,10.0,21740.53,21730.53
+"Chemotherapy, Infusion 1 Hour",418,5828.8,10.0,21628.26,21618.26

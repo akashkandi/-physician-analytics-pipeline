@@ -1,0 +1,101 @@
+provider_name,specialty,state,city,their_cost,z_score,charge_ratio,volume_tier,outlier_type
+Dr. Rivera Brian,Dermatology,CA,San Francisco,4852.76,9.13,4.34,Very High,Expensive Outlier
+Dr. Campbell Donna,Anesthesiology,NY,Syracuse,25802.99,8.74,3.52,Medium,Expensive Outlier
+Dr. Martinez Donna,Geriatrics,TX,Dallas,5115.51,8.46,2.4,Low,Expensive Outlier
+Dr. Anderson Margaret,Ophthalmology,AK,Juneau,7421.74,8.03,2.73,Medium,Expensive Outlier
+Dr. Martin Jessica,Vascular Surgery,TX,Dallas,24914.43,7.47,3.49,Very High,Expensive Outlier
+Dr. Hernandez Sandra,Internal Medicine,WY,Cheyenne,3419.97,7.24,3.92,High,Expensive Outlier
+Dr. Gonzalez Rachel,Dermatology,NJ,Paterson,3910.42,7.06,3.91,Low,Expensive Outlier
+Dr. Martin Steven,Colorectal Surgery,PA,Pittsburgh,24643.2,7.0,3.1,Medium,Expensive Outlier
+Dr. Hall Charles,Otolaryngology,RI,East Providence,9392.15,6.74,3.0,Medium,Expensive Outlier
+Dr. Smith James,Geriatrics,OR,Eugene,4122.56,6.53,4.32,Medium,Expensive Outlier
+Dr. Jones Rachel,Hematology,MA,Springfield,22678.77,6.52,3.49,Low,Expensive Outlier
+Dr. Flores Linda,Vascular Surgery,CA,Fresno,22132.41,6.46,3.06,High,Expensive Outlier
+Dr. Ramirez Charles,Internal Medicine,NY,Albany,3095.69,6.41,4.0,Medium,Expensive Outlier
+Dr. Nelson Richard,Vascular Surgery,NY,Rochester,21740.53,6.32,2.85,Low,Expensive Outlier
+Dr. Hill Deborah,Neurology,UT,Orem,9894.55,6.27,4.08,High,Expensive Outlier
+Dr. Ramirez Richard,Obstetrics/Gynecology,MA,Boston,6834.88,6.24,2.29,High,Expensive Outlier
+Dr. Martinez Mary,Obstetrics/Gynecology,PA,Reading,6755.19,6.15,2.88,Very High,Expensive Outlier
+Dr. White Laura,Radiology,NV,Reno,6870.6,6.15,1.9,Very High,Expensive Outlier
+Dr. Robinson Charles,Oncology,CA,Fresno,29260.75,6.1,3.75,Medium,Expensive Outlier
+Dr. Johnson Emily,Colorectal Surgery,HI,Kailua,21952.67,6.07,2.15,Very High,Expensive Outlier
+Dr. Rodriguez Daniel,Gastroenterology,KY,Lexington,11622.19,6.02,3.38,High,Expensive Outlier
+Dr. Lewis Sandra,Nephrology,MA,Cambridge,9463.19,5.98,2.14,Very High,Expensive Outlier
+Dr. Brown Michael,Thoracic Surgery,NJ,Paterson,33528.48,5.96,3.61,Low,Expensive Outlier
+Dr. Lopez Brian,Oncology,PA,Philadelphia,28601.42,5.93,3.91,Medium,Expensive Outlier
+Dr. Miller Richard,Ophthalmology,CA,San Diego,5752.7,5.88,3.69,Low,Expensive Outlier
+Dr. Thomas Maria,Infectious Disease,NY,New York,7536.69,5.86,3.53,Medium,Expensive Outlier
+Dr. Walker Mark,Allergy/Immunology,CA,Los Angeles,3855.25,5.84,4.46,High,Expensive Outlier
+Dr. Sanchez Dorothy,Thoracic Surgery,CA,San Francisco,32824.91,5.8,2.95,Low,Expensive Outlier
+Dr. Young Mary,Internal Medicine,CA,Fresno,2854.88,5.79,2.37,Low,Expensive Outlier
+Dr. Green Robert,Neurology,MS,Gulfport,9219.88,5.73,4.05,Very High,Expensive Outlier
+Dr. Wilson Susan,Hematology,OR,Gresham,20425.86,5.72,2.14,Very High,Expensive Outlier
+Dr. Green Mark,Psychiatry,CA,Fresno,3895.51,5.72,3.04,Very High,Expensive Outlier
+Dr. Williams Laura,Pathology,WY,Gillette,12753.85,5.68,4.31,Medium,Expensive Outlier
+Dr. Martinez Donald,Dermatology,NY,Albany,3282.08,5.67,3.1,Low,Expensive Outlier
+Dr. Adams Janet,Ophthalmology,MA,Cambridge,5543.27,5.61,4.44,Low,Expensive Outlier
+Dr. Mitchell Margaret,Allergy/Immunology,FL,Fort Lauderdale,3712.58,5.57,4.09,High,Expensive Outlier
+Dr. Martinez James,Internal Medicine,NH,Manchester,2768.21,5.56,4.49,Very High,Expensive Outlier
+Dr. Campbell William,Nephrology,MT,Billings,8905.1,5.54,3.54,Medium,Expensive Outlier
+Dr. Martinez Sandra,Thoracic Surgery,OH,Cleveland,31613.61,5.53,3.89,Low,Expensive Outlier
+Dr. Perez Jessica,Vascular Surgery,NV,Las Vegas,19436.82,5.49,4.13,Low,Expensive Outlier
+Dr. Williams Michael,Ophthalmology,CA,San Francisco,5448.76,5.48,2.77,High,Expensive Outlier
+Dr. Garcia Susan,Dermatology,FL,Jacksonville,3194.82,5.48,3.8,Medium,Expensive Outlier
+Dr. Sanchez Mary,Urology,TX,Fort Worth,11094.49,5.47,2.11,Low,Expensive Outlier
+Dr. Nguyen Helen,Urology,ME,Bangor,11069.7,5.45,2.28,Low,Expensive Outlier
+Dr. Mitchell Brian,Family Medicine,UT,Provo,1753.36,5.43,1.94,High,Expensive Outlier
+Dr. Adams Sandra,Radiology,WA,Vancouver,6222.11,5.42,2.92,Medium,Expensive Outlier
+Dr. Baker Richard,Psychiatry,WA,Seattle,3731.46,5.41,2.1,Low,Expensive Outlier
+Dr. Torres James,Radiology,CO,Colorado Springs,6197.8,5.39,4.21,Low,Expensive Outlier
+Dr. Ramirez Richard,Pediatrics,ME,Lewiston,1940.92,5.34,3.79,Very High,Expensive Outlier
+Dr. Nelson Brian,Radiology,KY,Lexington,6129.51,5.32,4.46,Low,Expensive Outlier
+Dr. Roberts William,Hematology,WY,Laramie,19222.03,5.3,3.16,High,Expensive Outlier
+Dr. Smith Elizabeth,Physical Medicine,OR,Eugene,5046.54,5.28,1.97,High,Expensive Outlier
+Dr. Hill Janet,Cardiology,CO,Fort Collins,15328.79,5.28,3.2,Medium,Expensive Outlier
+Dr. Mitchell Betty,Internal Medicine,MA,Cambridge,2655.91,5.28,4.46,High,Expensive Outlier
+Dr. King Emily,Infectious Disease,FL,Jacksonville,6928.17,5.26,4.46,Very High,Expensive Outlier
+Dr. Lopez Ashley,Endocrinology,NH,Manchester,4280.78,5.25,3.68,High,Expensive Outlier
+Dr. Taylor George,Endocrinology,NJ,Paterson,4279.58,5.25,2.12,Very High,Expensive Outlier
+Dr. Scott Margaret,Cardiology,NJ,Trenton,15261.68,5.25,3.99,Low,Expensive Outlier
+Dr. Lewis Steven,Emergency Medicine,NY,Albany,8933.82,5.23,3.36,Very High,Expensive Outlier
+Dr. Lee William,Rheumatology,NJ,Paterson,5909.84,5.22,3.62,High,Expensive Outlier
+Dr. Taylor Betty,Physical Medicine,NV,North Las Vegas,4996.79,5.21,2.75,Very High,Expensive Outlier
+Dr. Robinson Daniel,Pediatrics,CA,Los Angeles,1903.74,5.21,2.41,High,Expensive Outlier
+Dr. Lee John,Infectious Disease,TX,Austin,6852.48,5.19,3.36,Very High,Expensive Outlier
+Dr. Carter Dorothy,Family Medicine,OR,Hillsboro,1692.05,5.19,2.84,Medium,Expensive Outlier
+Dr. Thompson Janet,Neurology,MA,Boston,8501.11,5.17,1.81,Low,Expensive Outlier
+Dr. King Brian,Geriatrics,NH,Dover,3399.44,5.12,4.08,Low,Expensive Outlier
+Dr. Campbell Richard,Otolaryngology,WA,Spokane,7550.68,5.12,2.27,Very High,Expensive Outlier
+Dr. Gonzalez Kenneth,Allergy/Immunology,NJ,Paterson,3477.05,5.11,1.82,Very High,Expensive Outlier
+Dr. Flores Emily,Physical Medicine,TX,Dallas,4917.89,5.11,2.44,Low,Expensive Outlier
+Dr. Taylor John,Orthopedic Surgery,CA,Los Angeles,20767.29,5.08,2.57,High,Expensive Outlier
+Dr. Green Linda,Ophthalmology,NY,Rochester,5135.33,5.08,3.17,Very High,Expensive Outlier
+Dr. Harris Jennifer,Oncology,MI,Lansing,25297.95,5.07,3.76,Very High,Expensive Outlier
+Dr. Jones Jessica,Pathology,PA,Reading,11620.05,5.05,2.8,High,Expensive Outlier
+Dr. Garcia Betty,Nephrology,CA,San Francisco,8269.43,5.04,2.29,Very High,Expensive Outlier
+Dr. Nguyen Margaret,Ophthalmology,CA,San Francisco,5104.05,5.04,3.96,High,Expensive Outlier
+Dr. White Betty,Pulmonology,WA,Spokane,7342.21,5.04,3.69,Medium,Expensive Outlier
+Dr. Wright Sandra,Radiology,CA,Los Angeles,5879.56,5.04,2.35,High,Expensive Outlier
+Dr. Scott Elizabeth,Thoracic Surgery,ID,Idaho Falls,29310.88,5.02,2.46,Low,Expensive Outlier
+Dr. Garcia Sarah,Infectious Disease,CA,San Diego,6667.73,5.01,2.13,Very High,Expensive Outlier
+Dr. Nelson Helen,Nephrology,NV,Reno,8225.94,5.01,2.46,Medium,Expensive Outlier
+Dr. Jones Sharon,Orthopedic Surgery,NY,Albany,20491.06,4.99,3.44,High,Expensive Outlier
+Dr. Wright Emily,Endocrinology,UT,West Valley City,4116.72,4.99,1.82,Low,Expensive Outlier
+Dr. Hernandez Janet,Otolaryngology,NY,Buffalo,7399.22,4.99,3.3,Medium,Expensive Outlier
+Dr. Wilson Thomas,Obstetrics/Gynecology,AZ,Phoenix,5721.81,4.99,4.24,Medium,Expensive Outlier
+Dr. Rivera Patricia,Endocrinology,NY,Rochester,4104.71,4.97,4.17,Low,Expensive Outlier
+Dr. Martin Michael,Pulmonology,PA,Reading,7259.17,4.96,3.82,Medium,Expensive Outlier
+Dr. White Janet,Gastroenterology,PA,Philadelphia,9988.75,4.96,3.01,Very High,Expensive Outlier
+Dr. Flores William,Emergency Medicine,LA,Lake Charles,8562.79,4.95,2.33,Low,Expensive Outlier
+Dr. White Jennifer,Dermatology,TX,Fort Worth,2954.9,4.95,3.7,Low,Expensive Outlier
+Dr. Ramirez Helen,Dermatology,GA,Macon,2948.16,4.94,4.29,Medium,Expensive Outlier
+Dr. Walker Carolyn,Geriatrics,MA,Lowell,3298.23,4.93,3.73,High,Expensive Outlier
+Dr. Moore Karen,Psychiatry,CA,San Diego,3475.38,4.93,2.04,Very High,Expensive Outlier
+Dr. Allen Donald,Nephrology,NV,Las Vegas,8086.91,4.9,4.37,Medium,Expensive Outlier
+Dr. Williams Barbara,Radiology,PA,Reading,5744.33,4.88,3.02,High,Expensive Outlier
+Dr. Carter Dorothy,Emergency Medicine,OR,Portland,8460.34,4.88,3.39,Medium,Expensive Outlier
+Dr. Campbell Deborah,Pulmonology,NY,Syracuse,7146.36,4.86,3.29,Low,Expensive Outlier
+Dr. Flores Jessica,Allergy/Immunology,AK,Anchorage,3335.45,4.84,2.4,Very High,Expensive Outlier
+Dr. Nguyen Jennifer,Psychiatry,PA,Philadelphia,3427.71,4.84,2.8,Very High,Expensive Outlier
+Dr. Lewis Ashley,Pulmonology,MI,Sterling Heights,7110.65,4.83,1.8,High,Expensive Outlier
+Dr. Clark David,Nephrology,NJ,Trenton,7999.45,4.83,2.88,Low,Expensive Outlier

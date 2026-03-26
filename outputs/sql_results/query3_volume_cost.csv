@@ -1,0 +1,121 @@
+volume_tier,specialty,avg_cost,avg_cost_per_patient,provider_count,total_patients_served
+Low,Allergy/Immunology,782.27,53.83,886,19414
+Medium,Allergy/Immunology,809.39,13.31,796,50623
+High,Allergy/Immunology,846.31,6.5,813,111179
+Very High,Allergy/Immunology,848.72,2.33,838,442643
+Medium,Anesthesiology,3724.08,62.77,808,50543
+Low,Anesthesiology,3758.02,222.86,871,19679
+Very High,Anesthesiology,3807.76,10.45,844,442055
+High,Anesthesiology,3823.15,29.58,810,109309
+High,Cardiology,3385.42,26.36,801,109223
+Very High,Cardiology,3437.58,9.06,874,453170
+Low,Cardiology,3450.48,231.46,859,19348
+Medium,Cardiology,3531.71,59.91,800,49639
+High,Colorectal Surgery,4442.52,34.35,877,119777
+Very High,Colorectal Surgery,4451.89,12.39,782,409521
+Low,Colorectal Surgery,4466.62,299.17,835,18712
+Medium,Colorectal Surgery,4532.01,75.34,839,53294
+Medium,Dermatology,691.86,11.67,831,51670
+Very High,Dermatology,702.69,1.96,824,418246
+Low,Dermatology,705.74,47.89,845,19090
+High,Dermatology,722.91,5.63,833,112898
+High,Emergency Medicine,1908.1,14.86,838,113749
+Medium,Emergency Medicine,1971.33,32.33,844,53841
+Low,Emergency Medicine,1989.98,137.75,811,18221
+Very High,Emergency Medicine,1991.27,5.55,840,430301
+Medium,Endocrinology,973.93,16.27,782,49594
+Low,Endocrinology,978.99,59.56,839,19051
+High,Endocrinology,984.3,7.54,914,124813
+Very High,Endocrinology,993.64,2.77,799,397007
+Very High,Family Medicine,372.25,1.05,845,418197
+High,Family Medicine,376.98,2.87,799,109407
+Low,Family Medicine,379.86,23.47,839,18991
+Medium,Family Medicine,385.36,6.49,850,53626
+High,Gastroenterology,2291.36,18.01,776,104688
+Low,Gastroenterology,2292.53,145.2,883,19890
+Very High,Gastroenterology,2326.44,6.52,825,412310
+Medium,Gastroenterology,2429.34,40.35,849,54169
+Low,Geriatrics,752.21,52.12,893,20302
+High,Geriatrics,766.91,5.91,846,115020
+Very High,Geriatrics,767.63,2.13,813,411524
+Medium,Geriatrics,780.32,13.1,781,49048
+High,Hematology,4061.06,31.27,826,113540
+Medium,Hematology,4228.93,70.93,801,50509
+Low,Hematology,4315.64,287.02,892,20153
+Very High,Hematology,4326.8,11.8,814,413833
+Low,Infectious Disease,1542.1,107.89,802,18048
+Very High,Infectious Disease,1548.25,4.27,873,428118
+High,Infectious Disease,1550.97,11.9,843,114822
+Medium,Infectious Disease,1564.53,26.06,815,51198
+Medium,Internal Medicine,585.68,9.74,851,53751
+High,Internal Medicine,604.31,4.65,819,112642
+Low,Internal Medicine,615.56,44.16,835,18511
+Very High,Internal Medicine,620.52,1.68,830,452502
+High,Nephrology,1824.44,14.13,784,106792
+Low,Nephrology,1838.74,131.44,876,19722
+Very High,Nephrology,1883.92,5.29,852,433771
+Medium,Nephrology,1903.94,31.36,821,52570
+Very High,Neurology,1940.13,5.52,822,397560
+Medium,Neurology,1942.31,32.69,813,51545
+Low,Neurology,1944.04,143.77,848,19060
+High,Neurology,1951.12,15.08,851,116525
+Very High,Obstetrics/Gynecology,1272.52,3.6,823,423977
+High,Obstetrics/Gynecology,1295.52,10.24,839,111937
+Medium,Obstetrics/Gynecology,1337.93,22.49,837,52358
+Low,Obstetrics/Gynecology,1346.42,84.05,834,19116
+Low,Oncology,5636.9,388.98,810,18040
+Medium,Oncology,5737.68,95.15,855,54142
+Very High,Oncology,5806.1,16.22,865,431993
+High,Oncology,5910.55,45.81,807,110251
+Low,Ophthalmology,1152.35,74.04,874,20194
+Medium,Ophthalmology,1193.09,20.22,813,50842
+Very High,Ophthalmology,1197.77,3.32,854,429631
+High,Ophthalmology,1256.96,9.54,792,109403
+High,Orthopedic Surgery,4759.54,36.73,838,114480
+Medium,Orthopedic Surgery,4798.05,78.25,783,50398
+Very High,Orthopedic Surgery,4979.18,14.04,832,419550
+Low,Orthopedic Surgery,5030.23,327.92,880,20071
+Very High,Otolaryngology,1677.47,4.61,828,416903
+Low,Otolaryngology,1702.43,119.75,838,18549
+High,Otolaryngology,1740.04,13.39,793,108831
+Medium,Otolaryngology,1756.59,29.27,874,54813
+Very High,Pathology,2544.71,7.08,857,435094
+Medium,Pathology,2609.23,43.58,824,51714
+Low,Pathology,2617.83,169.47,815,18146
+High,Pathology,2653.58,20.65,837,114883
+Medium,Pediatrics,428.6,7.05,846,53666
+Very High,Pediatrics,431.34,1.15,824,435492
+High,Pediatrics,436.41,3.37,822,111749
+Low,Pediatrics,440.17,32.44,841,18481
+Medium,Physical Medicine,1089.09,18.06,862,54962
+Low,Physical Medicine,1091.11,75.85,849,18536
+High,Physical Medicine,1106.91,8.47,789,107751
+Very High,Physical Medicine,1110.51,3.07,833,436697
+Low,Psychiatry,861.31,58.27,842,18969
+High,Psychiatry,862.98,6.67,870,118776
+Very High,Psychiatry,879.9,2.46,827,430668
+Medium,Psychiatry,880.37,14.91,794,49727
+Medium,Pulmonology,1630.17,26.85,840,53400
+High,Pulmonology,1640.93,12.69,826,112310
+Very High,Pulmonology,1689.0,4.49,820,445570
+Low,Pulmonology,1731.79,116.19,847,18697
+Very High,Radiology,1359.51,3.8,822,422179
+High,Radiology,1388.19,10.64,812,111166
+Medium,Radiology,1400.13,23.49,815,51223
+Low,Radiology,1427.56,99.07,884,19358
+Very High,Rheumatology,1292.48,3.62,785,400179
+Medium,Rheumatology,1301.69,21.58,834,52556
+Low,Rheumatology,1346.38,92.34,869,19697
+High,Rheumatology,1347.54,10.4,845,115060
+Very High,Thoracic Surgery,6625.07,18.73,887,443695
+Medium,Thoracic Surgery,6847.07,116.19,763,47286
+High,Thoracic Surgery,6899.43,53.76,824,112571
+Low,Thoracic Surgery,7043.11,446.68,859,19491
+Very High,Urology,2315.64,6.33,812,425251
+Medium,Urology,2338.01,39.74,856,53509
+High,Urology,2339.8,17.52,822,115361
+Low,Urology,2436.53,166.83,844,18770
+High,Vascular Surgery,4046.43,31.26,840,114209
+Low,Vascular Surgery,4200.89,305.63,849,18948
+Very High,Vascular Surgery,4213.26,12.02,829,410335
+Medium,Vascular Surgery,4339.11,72.96,815,51042

@@ -1,0 +1,7 @@
+cluster_id,cluster_name,cost_per_patient,total_patients,procedure_diversity,avg_cost_z_score,avg_charge_ratio
+0,Outlier Billers,80.11,142.209,1.0,1.465,3.165
+1,Standard Practice,32.561,142.422,1.0,-0.381,2.448
+2,Standard Practice,32.331,142.302,1.0,-0.394,3.852
+3,Community Providers,1.79,1389.575,1.0,-0.073,3.162
+4,Standard Practice,962.428,8.414,1.0,1.007,3.14
+5,Premium Specialists,5982.666,1.739,1.0,1.416,3.479

@@ -1,0 +1,1501 @@
+state,region,specialty,state_avg,provider_count
+ID,West,Thoracic Surgery,8631.22,28
+NJ,Northeast,Thoracic Surgery,8285.45,107
+CA,West,Thoracic Surgery,8223.95,271
+WA,West,Thoracic Surgery,8111.6,71
+CO,West,Thoracic Surgery,8055.46,59
+MA,Northeast,Thoracic Surgery,8054.95,94
+NY,Northeast,Thoracic Surgery,7999.58,171
+AK,West,Oncology,7906.81,28
+HI,West,Thoracic Surgery,7885.05,28
+NH,Northeast,Thoracic Surgery,7871.87,36
+ME,Northeast,Thoracic Surgery,7854.95,14
+NV,West,Thoracic Surgery,7771.01,28
+CT,Northeast,Thoracic Surgery,7752.1,42
+RI,Northeast,Oncology,7625.63,24
+RI,Northeast,Thoracic Surgery,7501.02,19
+PA,Northeast,Thoracic Surgery,7450.2,129
+KS,Midwest,Thoracic Surgery,7441.91,27
+KY,Southeast,Thoracic Surgery,7314.95,56
+AK,West,Thoracic Surgery,7272.1,23
+VT,Northeast,Thoracic Surgery,7085.45,19
+NV,West,Oncology,7072.53,21
+UT,West,Thoracic Surgery,7060.69,49
+GA,Southeast,Thoracic Surgery,6962.77,96
+CT,Northeast,Oncology,6883.9,44
+OR,West,Thoracic Surgery,6862.46,52
+TN,Southeast,Thoracic Surgery,6835.17,79
+AZ,Southwest,Thoracic Surgery,6814.72,64
+PA,Northeast,Oncology,6806.7,141
+LA,Southeast,Thoracic Surgery,6784.11,43
+NH,Northeast,Oncology,6782.32,22
+NM,Southwest,Oncology,6713.29,24
+NJ,Northeast,Oncology,6685.48,97
+AR,Southeast,Thoracic Surgery,6679.47,30
+TX,Southwest,Thoracic Surgery,6638.57,232
+MA,Northeast,Oncology,6588.09,71
+WA,West,Oncology,6586.31,84
+CA,West,Oncology,6512.46,264
+OR,West,Oncology,6505.63,54
+UT,West,Oncology,6502.41,66
+MI,Midwest,Thoracic Surgery,6441.06,89
+IL,Midwest,Thoracic Surgery,6429.47,138
+ME,Northeast,Oncology,6348.96,26
+SD,Midwest,Thoracic Surgery,6335.8,25
+NM,Southwest,Thoracic Surgery,6312.39,25
+SC,Southeast,Thoracic Surgery,6281.09,60
+CO,West,Oncology,6246.38,51
+IN,Midwest,Thoracic Surgery,6235.21,65
+NV,West,Vascular Surgery,6177.9,20
+NE,Midwest,Thoracic Surgery,6170.57,22
+VA,Southeast,Thoracic Surgery,6160.39,66
+NV,West,Orthopedic Surgery,6152.54,28
+WY,West,Thoracic Surgery,6118.87,29
+NY,Northeast,Oncology,6082.23,179
+MT,West,Thoracic Surgery,6073.86,28
+CT,Northeast,Orthopedic Surgery,6064.03,51
+ME,Northeast,Colorectal Surgery,6047.96,24
+OK,Southwest,Thoracic Surgery,6047.3,47
+WA,West,Orthopedic Surgery,6013.19,69
+OK,Southwest,Oncology,6010.41,55
+MO,Midwest,Thoracic Surgery,5997.08,93
+HI,West,Oncology,5978.33,34
+CT,Northeast,Colorectal Surgery,5952.94,47
+KY,Southeast,Oncology,5947.69,45
+TX,Southwest,Oncology,5937.24,241
+FL,Southeast,Thoracic Surgery,5930.56,219
+HI,West,Colorectal Surgery,5925.14,30
+MA,Northeast,Orthopedic Surgery,5917.91,75
+AL,Southeast,Thoracic Surgery,5908.53,59
+PA,Northeast,Orthopedic Surgery,5905.3,127
+ID,West,Oncology,5864.91,25
+MD,Southeast,Thoracic Surgery,5864.8,62
+DE,Southeast,Thoracic Surgery,5854.3,20
+MS,Southeast,Oncology,5838.7,20
+MS,Southeast,Thoracic Surgery,5790.74,21
+AZ,Southwest,Oncology,5728.82,74
+UT,West,Orthopedic Surgery,5728.32,37
+NH,Northeast,Orthopedic Surgery,5720.6,32
+NC,Southeast,Oncology,5697.34,114
+ND,Midwest,Thoracic Surgery,5682.33,29
+WY,West,Hematology,5682.29,23
+MS,Southeast,Orthopedic Surgery,5679.52,30
+SC,Southeast,Oncology,5665.58,51
+CO,West,Orthopedic Surgery,5657.66,49
+VT,Northeast,Oncology,5646.76,20
+MN,Midwest,Thoracic Surgery,5614.06,47
+OH,Midwest,Thoracic Surgery,5607.09,99
+NC,Southeast,Thoracic Surgery,5602.24,111
+NE,Midwest,Hematology,5596.22,14
+NY,Northeast,Orthopedic Surgery,5563.67,168
+AR,Southeast,Oncology,5561.57,32
+MT,West,Orthopedic Surgery,5555.56,31
+FL,Southeast,Oncology,5512.63,211
+OR,West,Hematology,5506.72,50
+PA,Northeast,Colorectal Surgery,5479.29,119
+WI,Midwest,Thoracic Surgery,5469.78,73
+GA,Southeast,Oncology,5467.81,77
+CA,West,Orthopedic Surgery,5433.66,267
+OR,West,Orthopedic Surgery,5420.18,53
+WV,Southeast,Thoracic Surgery,5405.02,26
+NH,Northeast,Anesthesiology,5400.0,21
+ID,West,Orthopedic Surgery,5390.56,31
+RI,Northeast,Anesthesiology,5381.48,30
+PA,Northeast,Vascular Surgery,5373.54,130
+RI,Northeast,Vascular Surgery,5360.67,18
+VT,Northeast,Colorectal Surgery,5333.1,26
+WY,West,Oncology,5328.91,23
+WY,West,Colorectal Surgery,5327.69,21
+LA,Southeast,Oncology,5308.93,47
+KS,Midwest,Oncology,5304.91,22
+DE,Southeast,Oncology,5267.73,24
+MA,Northeast,Colorectal Surgery,5237.88,70
+TX,Southwest,Orthopedic Surgery,5227.0,233
+RI,Northeast,Orthopedic Surgery,5219.6,21
+CT,Northeast,Vascular Surgery,5219.4,60
+VT,Northeast,Orthopedic Surgery,5213.51,29
+AL,Southeast,Oncology,5165.51,58
+MA,Northeast,Vascular Surgery,5160.55,71
+IL,Midwest,Oncology,5159.97,108
+VT,Northeast,Vascular Surgery,5155.9,16
+MD,Southeast,Oncology,5152.99,76
+NY,Northeast,Colorectal Surgery,5149.37,189
+NJ,Northeast,Orthopedic Surgery,5143.18,89
+MT,West,Oncology,5135.6,14
+TN,Southeast,Oncology,5135.34,75
+OR,West,Colorectal Surgery,5132.3,49
+SC,Southeast,Orthopedic Surgery,5120.22,46
+VA,Southeast,Oncology,5095.35,77
+NH,Northeast,Colorectal Surgery,5090.87,23
+WI,Midwest,Oncology,5084.68,75
+NJ,Northeast,Colorectal Surgery,5054.99,92
+MT,West,Colorectal Surgery,5050.41,25
+NJ,Northeast,Vascular Surgery,5028.13,92
+MO,Midwest,Oncology,5012.3,69
+SD,Midwest,Colorectal Surgery,5009.47,31
+MA,Northeast,Hematology,4997.46,83
+RI,Northeast,Hematology,4984.85,24
+VT,Northeast,Hematology,4974.69,30
+AZ,Southwest,Orthopedic Surgery,4962.38,78
+ME,Northeast,Orthopedic Surgery,4961.49,28
+ND,Midwest,Oncology,4958.14,19
+IN,Midwest,Oncology,4922.93,80
+HI,West,Hematology,4922.56,22
+IA,Midwest,Thoracic Surgery,4917.21,13
+KS,Midwest,Orthopedic Surgery,4914.18,30
+NM,Southwest,Orthopedic Surgery,4895.1,22
+ME,Northeast,Vascular Surgery,4891.94,24
+VT,Northeast,Anesthesiology,4888.5,24
+WA,West,Hematology,4878.06,92
+ND,Midwest,Orthopedic Surgery,4842.99,15
+OH,Midwest,Oncology,4842.85,105
+KY,Southeast,Orthopedic Surgery,4840.0,64
+HI,West,Orthopedic Surgery,4837.07,23
+WV,Southeast,Oncology,4831.67,24
+AK,West,Hematology,4822.02,38
+WA,West,Colorectal Surgery,4803.51,85
+AK,West,Orthopedic Surgery,4785.73,26
+CA,West,Colorectal Surgery,4782.27,262
+TN,Southeast,Orthopedic Surgery,4775.49,81
+PA,Northeast,Hematology,4774.64,126
+OK,Southwest,Vascular Surgery,4770.27,52
+ME,Northeast,Hematology,4763.58,27
+CA,West,Vascular Surgery,4741.09,252
+TX,Southwest,Colorectal Surgery,4738.88,207
+IA,Midwest,Oncology,4732.57,28
+NY,Northeast,Hematology,4730.35,202
+NJ,Northeast,Anesthesiology,4728.75,98
+ID,West,Colorectal Surgery,4718.51,21
+UT,West,Colorectal Surgery,4704.24,51
+WY,West,Orthopedic Surgery,4700.97,23
+ND,Midwest,Colorectal Surgery,4697.2,31
+MD,Southeast,Colorectal Surgery,4688.52,67
+NY,Northeast,Vascular Surgery,4674.58,198
+CA,West,Hematology,4674.06,235
+IN,Midwest,Orthopedic Surgery,4668.58,71
+OK,Southwest,Orthopedic Surgery,4662.9,49
+NJ,Northeast,Hematology,4656.12,111
+MI,Midwest,Oncology,4652.2,110
+OR,West,Vascular Surgery,4649.17,51
+MT,West,Hematology,4645.21,28
+AZ,Southwest,Hematology,4630.54,90
+NC,Southeast,Orthopedic Surgery,4614.85,128
+VA,Southeast,Orthopedic Surgery,4589.49,71
+AK,West,Vascular Surgery,4576.85,20
+NV,West,Colorectal Surgery,4576.58,16
+MA,Northeast,Anesthesiology,4567.43,69
+LA,Southeast,Orthopedic Surgery,4550.13,50
+RI,Northeast,Colorectal Surgery,4547.96,36
+MT,West,Vascular Surgery,4541.96,24
+MD,Southeast,Orthopedic Surgery,4538.61,82
+OK,Southwest,Colorectal Surgery,4534.21,54
+AZ,Southwest,Colorectal Surgery,4517.85,78
+UT,West,Vascular Surgery,4516.12,61
+WA,West,Vascular Surgery,4502.92,71
+MN,Midwest,Oncology,4480.76,46
+NY,Northeast,Anesthesiology,4472.88,170
+WY,West,Vascular Surgery,4454.21,35
+AR,Southeast,Colorectal Surgery,4444.85,20
+FL,Southeast,Orthopedic Surgery,4443.78,216
+TX,Southwest,Vascular Surgery,4438.67,237
+KS,Midwest,Vascular Surgery,4399.01,25
+NM,Southwest,Colorectal Surgery,4385.46,34
+TN,Southeast,Colorectal Surgery,4373.82,68
+CO,West,Cardiology,4361.5,64
+TX,Southwest,Hematology,4351.76,222
+DE,Southeast,Colorectal Surgery,4337.62,23
+CO,West,Hematology,4332.93,53
+MI,Midwest,Hematology,4319.17,115
+UT,West,Hematology,4319.06,41
+NH,Northeast,Hematology,4317.15,27
+OR,West,Anesthesiology,4297.06,49
+GA,Southeast,Orthopedic Surgery,4279.13,88
+NM,Southwest,Vascular Surgery,4278.95,27
+OH,Midwest,Orthopedic Surgery,4277.55,111
+LA,Southeast,Hematology,4275.89,48
+MT,West,Anesthesiology,4264.61,29
+CA,West,Anesthesiology,4264.56,242
+VA,Southeast,Colorectal Surgery,4242.96,76
+CO,West,Vascular Surgery,4239.17,49
+PA,Northeast,Anesthesiology,4237.28,120
+ID,West,Vascular Surgery,4229.52,19
+IA,Midwest,Orthopedic Surgery,4225.51,22
+NV,West,Hematology,4224.16,27
+SD,Midwest,Oncology,4221.42,26
+NY,Northeast,Cardiology,4215.71,181
+FL,Southeast,Colorectal Surgery,4208.52,196
+OR,West,Cardiology,4207.42,55
+NH,Northeast,Cardiology,4201.08,16
+WY,West,Anesthesiology,4193.43,31
+CT,Northeast,Hematology,4181.3,36
+NC,Southeast,Colorectal Surgery,4173.51,111
+WV,Southeast,Orthopedic Surgery,4173.43,20
+NM,Southwest,Cardiology,4171.13,30
+NE,Midwest,Oncology,4167.99,36
+WA,West,Anesthesiology,4165.11,76
+MI,Midwest,Colorectal Surgery,4151.29,123
+WI,Midwest,Orthopedic Surgery,4140.58,66
+SC,Southeast,Vascular Surgery,4128.58,48
+KY,Southeast,Colorectal Surgery,4126.38,54
+MI,Midwest,Orthopedic Surgery,4119.02,88
+CO,West,Colorectal Surgery,4118.72,61
+GA,Southeast,Vascular Surgery,4118.7,101
+CO,West,Anesthesiology,4114.62,58
+MO,Midwest,Orthopedic Surgery,4106.48,78
+LA,Southeast,Vascular Surgery,4100.97,47
+DE,Southeast,Orthopedic Surgery,4095.14,28
+MN,Midwest,Orthopedic Surgery,4082.22,45
+ND,Midwest,Anesthesiology,4067.95,32
+LA,Southeast,Colorectal Surgery,4066.66,48
+ID,West,Hematology,4057.23,16
+AR,Southeast,Hematology,4050.4,30
+MO,Midwest,Colorectal Surgery,4037.67,83
+FL,Southeast,Hematology,4036.45,200
+MS,Southeast,Vascular Surgery,4022.35,27
+FL,Southeast,Vascular Surgery,4017.63,207
+CT,Northeast,Anesthesiology,4012.14,61
+MN,Midwest,Vascular Surgery,4010.77,52
+AL,Southeast,Orthopedic Surgery,4005.41,57
+IA,Midwest,Hematology,3992.98,18
+MN,Midwest,Hematology,3987.51,63
+WV,Southeast,Hematology,3984.91,24
+MN,Midwest,Colorectal Surgery,3979.49,54
+HI,West,Vascular Surgery,3972.67,19
+MD,Southeast,Vascular Surgery,3962.93,84
+OH,Midwest,Colorectal Surgery,3962.33,105
+SC,Southeast,Colorectal Surgery,3962.11,49
+CT,Northeast,Cardiology,3934.97,50
+AR,Southeast,Orthopedic Surgery,3933.41,23
+AK,West,Cardiology,3933.34,30
+AK,West,Colorectal Surgery,3931.37,27
+VT,Northeast,Cardiology,3925.52,22
+TX,Southwest,Anesthesiology,3922.89,205
+OK,Southwest,Hematology,3916.95,43
+MA,Northeast,Cardiology,3908.48,63
+MO,Midwest,Hematology,3879.14,81
+NH,Northeast,Vascular Surgery,3878.93,23
+NH,Northeast,Pathology,3869.21,23
+WV,Southeast,Colorectal Surgery,3862.62,20
+AL,Southeast,Colorectal Surgery,3858.38,53
+IN,Midwest,Hematology,3854.53,70
+OK,Southwest,Anesthesiology,3854.37,51
+NV,West,Cardiology,3852.95,31
+ID,West,Anesthesiology,3833.92,24
+NC,Southeast,Hematology,3825.93,107
+NE,Midwest,Colorectal Surgery,3825.28,22
+WI,Midwest,Vascular Surgery,3824.49,92
+IN,Midwest,Vascular Surgery,3816.0,71
+AR,Southeast,Vascular Surgery,3790.15,28
+SC,Southeast,Hematology,3785.05,50
+WV,Southeast,Anesthesiology,3783.28,21
+TN,Southeast,Hematology,3782.03,80
+MI,Midwest,Vascular Surgery,3771.57,87
+KY,Southeast,Hematology,3771.29,41
+AZ,Southwest,Anesthesiology,3770.56,98
+TN,Southeast,Vascular Surgery,3768.1,74
+WI,Midwest,Hematology,3768.1,77
+WY,West,Cardiology,3765.4,23
+GA,Southeast,Colorectal Surgery,3754.25,90
+ME,Northeast,Anesthesiology,3753.89,33
+OH,Midwest,Vascular Surgery,3749.4,99
+GA,Southeast,Hematology,3747.93,104
+IA,Midwest,Colorectal Surgery,3744.39,20
+PA,Northeast,Cardiology,3742.33,117
+MT,West,Cardiology,3738.61,22
+WV,Southeast,Vascular Surgery,3737.02,23
+CA,West,Cardiology,3736.74,286
+TX,Southwest,Cardiology,3734.9,223
+NE,Midwest,Orthopedic Surgery,3731.74,24
+AZ,Southwest,Vascular Surgery,3729.46,78
+NJ,Northeast,Cardiology,3724.32,101
+IL,Midwest,Hematology,3711.41,126
+KS,Midwest,Hematology,3701.47,18
+NC,Southeast,Anesthesiology,3683.95,123
+IL,Midwest,Colorectal Surgery,3663.72,114
+ID,West,Cardiology,3662.87,30
+WI,Midwest,Colorectal Surgery,3660.85,77
+IL,Midwest,Orthopedic Surgery,3652.67,133
+NC,Southeast,Vascular Surgery,3645.55,117
+MO,Midwest,Vascular Surgery,3637.54,80
+DE,Southeast,Hematology,3632.87,26
+VA,Southeast,Anesthesiology,3627.82,86
+KY,Southeast,Anesthesiology,3624.62,67
+SC,Southeast,Anesthesiology,3605.23,53
+WA,West,Cardiology,3591.27,70
+NV,West,Pathology,3575.64,19
+UT,West,Anesthesiology,3563.58,57
+MS,Southeast,Colorectal Surgery,3548.57,32
+MD,Southeast,Hematology,3541.51,71
+VA,Southeast,Hematology,3539.62,83
+IL,Midwest,Anesthesiology,3539.44,121
+NV,West,Anesthesiology,3526.15,18
+KY,Southeast,Cardiology,3526.08,49
+OH,Midwest,Anesthesiology,3523.65,94
+OH,Midwest,Hematology,3510.29,103
+AR,Southeast,Anesthesiology,3509.74,26
+NM,Southwest,Hematology,3495.07,22
+HI,West,Anesthesiology,3479.07,28
+AZ,Southwest,Cardiology,3478.45,82
+RI,Northeast,Cardiology,3476.64,21
+AK,West,Pathology,3470.75,26
+AL,Southeast,Hematology,3470.39,44
+IA,Midwest,Cardiology,3448.65,27
+ND,Midwest,Vascular Surgery,3440.05,21
+SD,Midwest,Hematology,3434.46,24
+MS,Southeast,Anesthesiology,3432.67,28
+MD,Southeast,Anesthesiology,3428.18,72
+VT,Northeast,Pathology,3414.16,21
+OK,Southwest,Cardiology,3412.11,47
+MS,Southeast,Hematology,3393.04,29
+FL,Southeast,Anesthesiology,3379.45,172
+SD,Midwest,Orthopedic Surgery,3377.52,27
+ME,Northeast,Pathology,3363.75,25
+WY,West,Pathology,3361.3,25
+DE,Southeast,Anesthesiology,3355.34,24
+MN,Midwest,Anesthesiology,3347.29,52
+ME,Northeast,Urology,3342.16,27
+KS,Midwest,Anesthesiology,3336.51,27
+OH,Midwest,Cardiology,3333.69,92
+AR,Southeast,Cardiology,3327.09,22
+MO,Midwest,Anesthesiology,3323.54,68
+KS,Midwest,Colorectal Surgery,3320.38,33
+IN,Midwest,Anesthesiology,3320.06,89
+IL,Midwest,Cardiology,3315.08,127
+AL,Southeast,Anesthesiology,3311.68,38
+NM,Southwest,Anesthesiology,3306.83,30
+GA,Southeast,Anesthesiology,3302.78,105
+WI,Midwest,Anesthesiology,3301.48,76
+IL,Midwest,Vascular Surgery,3293.21,123
+RI,Northeast,Gastroenterology,3284.67,21
+IA,Midwest,Vascular Surgery,3272.19,22
+IN,Midwest,Colorectal Surgery,3262.89,86
+DE,Southeast,Cardiology,3260.93,29
+NC,Southeast,Cardiology,3252.36,103
+AL,Southeast,Vascular Surgery,3251.54,45
+MN,Midwest,Cardiology,3243.82,56
+VA,Southeast,Vascular Surgery,3243.72,85
+HI,West,Cardiology,3236.08,13
+LA,Southeast,Anesthesiology,3225.69,59
+MS,Southeast,Cardiology,3207.09,29
+ME,Northeast,Cardiology,3205.4,19
+VA,Southeast,Cardiology,3195.66,89
+UT,West,Cardiology,3176.55,49
+TN,Southeast,Anesthesiology,3173.28,58
+NJ,Northeast,Urology,3172.89,91
+NE,Midwest,Anesthesiology,3162.34,37
+FL,Southeast,Cardiology,3143.08,207
+NJ,Northeast,Pathology,3127.36,99
+AK,West,Anesthesiology,3094.47,22
+NE,Midwest,Cardiology,3089.69,25
+GA,Southeast,Cardiology,3084.95,100
+KY,Southeast,Vascular Surgery,3069.82,45
+MO,Midwest,Cardiology,3051.67,80
+DE,Southeast,Vascular Surgery,3044.11,28
+IN,Midwest,Cardiology,3038.97,70
+MI,Midwest,Cardiology,3037.5,108
+AL,Southeast,Cardiology,3020.84,59
+SC,Southeast,Cardiology,2995.2,58
+WA,West,Pathology,2994.28,80
+NE,Midwest,Vascular Surgery,2993.38,34
+CT,Northeast,Pathology,2975.87,40
+IA,Midwest,Anesthesiology,2974.03,33
+MI,Midwest,Anesthesiology,2973.61,105
+MA,Northeast,Pathology,2959.75,79
+NY,Northeast,Pathology,2932.75,203
+MD,Southeast,Cardiology,2922.87,67
+SD,Midwest,Cardiology,2912.02,27
+CA,West,Pathology,2904.11,247
+RI,Northeast,Urology,2895.41,34
+OR,West,Pathology,2894.91,57
+NH,Northeast,Urology,2887.85,25
+PA,Northeast,Pathology,2884.07,146
+WI,Midwest,Cardiology,2884.05,73
+ND,Midwest,Hematology,2881.53,19
+UT,West,Urology,2878.6,43
+VT,Northeast,Urology,2877.31,23
+SD,Midwest,Vascular Surgery,2865.22,21
+WV,Southeast,Cardiology,2865.07,21
+AK,West,Gastroenterology,2861.14,20
+TN,Southeast,Cardiology,2855.44,69
+LA,Southeast,Cardiology,2853.08,48
+CO,West,Pathology,2847.02,54
+NY,Northeast,Gastroenterology,2846.56,176
+MA,Northeast,Gastroenterology,2826.01,87
+ID,West,Gastroenterology,2821.38,19
+UT,West,Gastroenterology,2804.75,44
+SD,Midwest,Anesthesiology,2802.66,23
+OR,West,Urology,2797.02,57
+ID,West,Pathology,2796.4,15
+TX,Southwest,Pathology,2771.82,249
+UT,West,Pathology,2769.49,39
+AZ,Southwest,Pathology,2755.54,75
+MT,West,Gastroenterology,2739.33,30
+AZ,Southwest,Urology,2736.33,78
+HI,West,Otolaryngology,2726.86,26
+RI,Northeast,Pathology,2724.77,18
+NJ,Northeast,Gastroenterology,2721.62,106
+TN,Southeast,Pathology,2704.76,71
+MA,Northeast,Urology,2689.8,95
+MT,West,Urology,2688.62,34
+ND,Midwest,Cardiology,2686.13,31
+SD,Midwest,Urology,2681.44,27
+PA,Northeast,Gastroenterology,2661.12,128
+NH,Northeast,Gastroenterology,2648.57,23
+OR,West,Emergency Medicine,2632.27,55
+CT,Northeast,Gastroenterology,2629.39,62
+CA,West,Urology,2612.82,259
+ID,West,Urology,2611.87,21
+HI,West,Gastroenterology,2610.66,23
+HI,West,Pathology,2600.96,31
+AL,Southeast,Gastroenterology,2589.28,39
+MN,Midwest,Pathology,2569.93,50
+NY,Northeast,Urology,2562.01,193
+KS,Midwest,Cardiology,2554.86,23
+CA,West,Gastroenterology,2533.2,263
+WY,West,Gastroenterology,2532.17,31
+ND,Midwest,Pathology,2527.84,19
+AL,Southeast,Pathology,2524.34,49
+PA,Northeast,Urology,2512.95,118
+NH,Northeast,Neurology,2509.84,18
+VT,Northeast,Gastroenterology,2508.19,40
+CT,Northeast,Urology,2507.09,53
+GA,Southeast,Urology,2493.57,85
+NY,Northeast,Emergency Medicine,2488.79,195
+WA,West,Gastroenterology,2488.08,81
+FL,Southeast,Pathology,2487.27,205
+WY,West,Urology,2477.18,22
+DE,Southeast,Pathology,2457.17,29
+MT,West,Pathology,2454.48,16
+TX,Southwest,Gastroenterology,2454.27,230
+TX,Southwest,Urology,2444.41,242
+LA,Southeast,Gastroenterology,2443.94,41
+RI,Northeast,Pulmonology,2442.42,24
+NH,Northeast,Emergency Medicine,2436.85,29
+NV,West,Urology,2416.43,28
+ME,Northeast,Neurology,2412.95,31
+MS,Southeast,Urology,2404.19,24
+OR,West,Gastroenterology,2399.84,53
+DE,Southeast,Urology,2396.63,29
+MT,West,Emergency Medicine,2394.81,14
+SC,Southeast,Pathology,2392.34,53
+AZ,Southwest,Gastroenterology,2383.71,82
+NJ,Northeast,Nephrology,2376.52,109
+NJ,Northeast,Emergency Medicine,2372.34,110
+CO,West,Urology,2372.07,53
+RI,Northeast,Otolaryngology,2368.36,33
+CT,Northeast,Neurology,2367.58,48
+PA,Northeast,Neurology,2364.09,111
+OR,West,Neurology,2360.17,66
+GA,Southeast,Pathology,2355.97,115
+NE,Midwest,Urology,2350.6,26
+CO,West,Emergency Medicine,2348.11,48
+NV,West,Nephrology,2339.21,25
+MI,Midwest,Pathology,2336.47,94
+HI,West,Urology,2334.18,25
+NC,Southeast,Pathology,2329.42,105
+MT,West,Nephrology,2327.06,28
+RI,Northeast,Nephrology,2319.26,26
+MO,Midwest,Pathology,2308.62,80
+WA,West,Urology,2302.03,66
+CO,West,Gastroenterology,2300.4,50
+WY,West,Neurology,2297.74,22
+KY,Southeast,Gastroenterology,2297.13,55
+ME,Northeast,Gastroenterology,2297.0,30
+AK,West,Urology,2296.49,20
+NM,Southwest,Pathology,2289.52,35
+HI,West,Nephrology,2283.28,20
+MD,Southeast,Gastroenterology,2282.36,67
+MD,Southeast,Urology,2280.23,66
+OR,West,Nephrology,2279.97,43
+NY,Northeast,Neurology,2278.22,155
+NM,Southwest,Otolaryngology,2276.22,20
+FL,Southeast,Gastroenterology,2274.43,195
+CT,Northeast,Emergency Medicine,2271.77,47
+VA,Southeast,Pathology,2270.19,85
+MS,Southeast,Pathology,2268.72,31
+MA,Northeast,Neurology,2268.27,89
+ME,Northeast,Nephrology,2265.06,23
+AR,Southeast,Pathology,2264.18,19
+RI,Northeast,Neurology,2261.3,21
+IL,Midwest,Pathology,2257.16,149
+WY,West,Pulmonology,2256.87,19
+UT,West,Neurology,2251.29,51
+OK,Southwest,Urology,2251.28,61
+OK,Southwest,Pathology,2249.63,40
+MA,Northeast,Nephrology,2249.49,92
+LA,Southeast,Pathology,2247.13,45
+CA,West,Neurology,2243.97,254
+CA,West,Emergency Medicine,2233.47,279
+AK,West,Nephrology,2228.07,27
+KS,Midwest,Pathology,2223.72,28
+PA,Northeast,Emergency Medicine,2223.07,133
+NV,West,Gastroenterology,2220.88,25
+OK,Southwest,Gastroenterology,2219.72,48
+NM,Southwest,Urology,2219.6,24
+NC,Southeast,Gastroenterology,2218.05,103
+HI,West,Neurology,2216.2,27
+CT,Northeast,Nephrology,2216.12,59
+WY,West,Nephrology,2214.31,21
+CT,Northeast,Otolaryngology,2206.27,50
+AL,Southeast,Urology,2202.34,55
+ME,Northeast,Pulmonology,2201.6,25
+KY,Southeast,Pathology,2200.0,47
+AK,West,Emergency Medicine,2180.19,22
+MS,Southeast,Emergency Medicine,2173.34,26
+AR,Southeast,Gastroenterology,2172.91,24
+AK,West,Neurology,2170.85,24
+NE,Midwest,Gastroenterology,2166.35,24
+OH,Midwest,Pathology,2163.08,103
+WV,Southeast,Urology,2151.45,24
+NV,West,Emergency Medicine,2150.39,24
+MO,Midwest,Gastroenterology,2149.31,85
+KS,Midwest,Gastroenterology,2145.38,22
+TN,Southeast,Emergency Medicine,2135.91,76
+DE,Southeast,Neurology,2133.42,22
+OH,Midwest,Urology,2131.19,122
+NC,Southeast,Urology,2129.69,94
+WI,Midwest,Pathology,2126.01,81
+NE,Midwest,Pathology,2120.56,25
+ID,West,Infectious Disease,2120.36,23
+CO,West,Neurology,2118.62,58
+WI,Midwest,Urology,2117.18,78
+MD,Southeast,Pathology,2113.98,65
+SD,Midwest,Pathology,2111.96,18
+MT,West,Infectious Disease,2109.61,28
+SD,Midwest,Gastroenterology,2109.58,34
+NJ,Northeast,Neurology,2105.12,93
+CO,West,Nephrology,2104.87,49
+FL,Southeast,Urology,2099.15,209
+OH,Midwest,Gastroenterology,2095.28,99
+NY,Northeast,Pulmonology,2095.07,186
+MA,Northeast,Emergency Medicine,2093.16,81
+TX,Southwest,Neurology,2092.15,208
+NY,Northeast,Nephrology,2088.35,159
+TN,Southeast,Urology,2087.78,63
+HI,West,Emergency Medicine,2086.95,21
+SC,Southeast,Emergency Medicine,2085.74,51
+AK,West,Infectious Disease,2085.3,27
+AR,Southeast,Neurology,2082.26,31
+MN,Midwest,Gastroenterology,2079.52,62
+PA,Northeast,Nephrology,2078.65,120
+VT,Northeast,Otolaryngology,2076.9,22
+MS,Southeast,Gastroenterology,2075.5,25
+IL,Midwest,Gastroenterology,2072.95,132
+IA,Midwest,Pathology,2070.75,25
+IL,Midwest,Urology,2067.12,117
+KY,Southeast,Urology,2066.25,41
+NJ,Northeast,Otolaryngology,2061.58,96
+AZ,Southwest,Neurology,2058.29,80
+UT,West,Nephrology,2053.79,47
+OK,Southwest,Emergency Medicine,2053.36,51
+NE,Midwest,Neurology,2052.19,23
+IN,Midwest,Urology,2049.71,79
+VT,Northeast,Neurology,2049.41,22
+LA,Southeast,Emergency Medicine,2049.35,53
+MI,Midwest,Urology,2048.7,104
+NM,Southwest,Neurology,2044.62,30
+MN,Midwest,Urology,2043.68,51
+AZ,Southwest,Emergency Medicine,2042.45,77
+NV,West,Pulmonology,2035.68,22
+KS,Midwest,Neurology,2035.33,31
+NH,Northeast,Infectious Disease,2034.97,22
+MD,Southeast,Neurology,2021.6,88
+SC,Southeast,Urology,2020.81,55
+MA,Northeast,Otolaryngology,2010.25,83
+PA,Northeast,Pulmonology,2003.71,142
+AZ,Southwest,Nephrology,1998.2,86
+VA,Southeast,Urology,1997.84,69
+CO,West,Otolaryngology,1996.53,60
+OK,Southwest,Nephrology,1990.05,51
+DE,Southeast,Gastroenterology,1987.05,19
+IA,Midwest,Emergency Medicine,1982.5,25
+ID,West,Emergency Medicine,1981.14,23
+GA,Southeast,Gastroenterology,1973.65,112
+WA,West,Pulmonology,1971.8,86
+WI,Midwest,Gastroenterology,1969.04,65
+CT,Northeast,Pulmonology,1968.1,54
+MA,Northeast,Pulmonology,1966.36,80
+ND,Midwest,Gastroenterology,1963.08,35
+AR,Southeast,Emergency Medicine,1961.27,26
+WA,West,Otolaryngology,1960.48,80
+IN,Midwest,Pathology,1949.14,65
+TX,Southwest,Emergency Medicine,1948.9,204
+WV,Southeast,Neurology,1944.42,22
+LA,Southeast,Urology,1944.37,40
+CA,West,Otolaryngology,1942.12,260
+ND,Midwest,Urology,1939.0,23
+AK,West,Otolaryngology,1938.78,25
+AR,Southeast,Urology,1935.88,31
+NM,Southwest,Emergency Medicine,1935.73,27
+NH,Northeast,Rheumatology,1935.56,14
+ME,Northeast,Radiology,1930.56,26
+NM,Southwest,Nephrology,1926.83,22
+WA,West,Nephrology,1924.51,68
+NY,Northeast,Otolaryngology,1923.27,169
+IA,Midwest,Gastroenterology,1921.76,24
+TX,Southwest,Nephrology,1915.44,223
+PA,Northeast,Infectious Disease,1911.44,120
+MI,Midwest,Gastroenterology,1909.89,67
+VA,Southeast,Gastroenterology,1909.62,71
+MT,West,Otolaryngology,1906.79,35
+NV,West,Neurology,1906.5,25
+KY,Southeast,Otolaryngology,1905.75,44
+OK,Southwest,Otolaryngology,1905.39,31
+NV,West,Rheumatology,1905.27,24
+DE,Southeast,Otolaryngology,1900.68,24
+CA,West,Nephrology,1899.66,240
+NH,Northeast,Pulmonology,1899.27,24
+WA,West,Emergency Medicine,1897.34,76
+TN,Southeast,Gastroenterology,1897.16,80
+WY,West,Emergency Medicine,1895.39,24
+SD,Midwest,Emergency Medicine,1894.57,21
+ME,Northeast,Otolaryngology,1890.64,23
+NE,Midwest,Nephrology,1888.41,27
+NJ,Northeast,Pulmonology,1886.81,97
+KY,Southeast,Nephrology,1882.49,51
+KS,Midwest,Emergency Medicine,1876.51,20
+MS,Southeast,Neurology,1873.66,30
+ME,Northeast,Emergency Medicine,1873.44,25
+NC,Southeast,Emergency Medicine,1871.13,104
+IA,Midwest,Nephrology,1868.28,30
+ND,Midwest,Emergency Medicine,1867.75,26
+MD,Southeast,Emergency Medicine,1866.15,86
+MA,Northeast,Infectious Disease,1861.03,66
+KY,Southeast,Emergency Medicine,1847.39,47
+OK,Southwest,Neurology,1846.64,38
+AL,Southeast,Neurology,1842.76,46
+WY,West,Infectious Disease,1842.11,27
+NY,Northeast,Infectious Disease,1841.12,179
+IN,Midwest,Nephrology,1839.96,81
+AL,Southeast,Nephrology,1836.17,49
+IN,Midwest,Neurology,1834.4,94
+PA,Northeast,Otolaryngology,1828.04,140
+FL,Southeast,Nephrology,1827.34,185
+AK,West,Radiology,1824.93,37
+WY,West,Otolaryngology,1821.47,20
+IA,Midwest,Neurology,1820.89,23
+OR,West,Otolaryngology,1814.34,47
+VT,Northeast,Nephrology,1813.77,17
+SD,Midwest,Neurology,1813.49,26
+WV,Southeast,Gastroenterology,1808.5,23
+HI,West,Rheumatology,1804.36,36
+OR,West,Pulmonology,1801.73,42
+VA,Southeast,Nephrology,1800.1,86
+ID,West,Nephrology,1798.7,36
+UT,West,Emergency Medicine,1797.66,54
+IN,Midwest,Gastroenterology,1797.25,79
+MO,Midwest,Urology,1796.35,79
+NM,Southwest,Pulmonology,1783.73,29
+CA,West,Pulmonology,1782.19,271
+LA,Southeast,Neurology,1780.79,66
+WV,Southeast,Pathology,1778.86,15
+KS,Midwest,Pulmonology,1773.28,36
+KS,Midwest,Urology,1772.06,33
+OH,Midwest,Neurology,1768.96,107
+AZ,Southwest,Pulmonology,1768.01,72
+SC,Southeast,Gastroenterology,1762.77,51
+AZ,Southwest,Otolaryngology,1762.64,73
+NC,Southeast,Neurology,1759.96,94
+IN,Midwest,Emergency Medicine,1754.94,91
+ID,West,Radiology,1752.69,24
+GA,Southeast,Neurology,1751.71,102
+MI,Midwest,Neurology,1747.67,100
+AK,West,Pulmonology,1747.62,28
+AR,Southeast,Infectious Disease,1746.86,27
+CO,West,Pulmonology,1746.11,56
+WA,West,Neurology,1744.92,85
+TN,Southeast,Nephrology,1744.45,92
+MT,West,Obstetrics/Gynecology,1743.15,29
+AK,West,Ophthalmology,1742.6,30
+NM,Southwest,Gastroenterology,1738.05,28
+IA,Midwest,Urology,1736.51,18
+MD,Southeast,Nephrology,1735.69,88
+IA,Midwest,Otolaryngology,1732.67,25
+FL,Southeast,Emergency Medicine,1729.7,191
+NE,Midwest,Infectious Disease,1728.94,25
+CO,West,Infectious Disease,1728.84,53
+ID,West,Pulmonology,1728.47,22
+HI,West,Radiology,1726.87,17
+WA,West,Radiology,1725.7,90
+NV,West,Infectious Disease,1723.19,33
+WI,Midwest,Neurology,1722.09,79
+VA,Southeast,Neurology,1720.34,76
+MD,Southeast,Otolaryngology,1720.18,72
+RI,Northeast,Emergency Medicine,1718.36,18
+NV,West,Otolaryngology,1717.05,28
+NJ,Northeast,Infectious Disease,1712.2,108
+HI,West,Infectious Disease,1711.96,28
+CT,Northeast,Infectious Disease,1710.67,54
+MT,West,Neurology,1707.41,26
+SC,Southeast,Neurology,1707.35,57
+OH,Midwest,Emergency Medicine,1700.93,102
+WV,Southeast,Infectious Disease,1700.09,13
+AL,Southeast,Emergency Medicine,1698.44,47
+MS,Southeast,Nephrology,1697.5,24
+CA,West,Infectious Disease,1696.6,274
+UT,West,Otolaryngology,1695.75,58
+GA,Southeast,Nephrology,1692.75,111
+TX,Southwest,Pulmonology,1692.42,219
+VA,Southeast,Emergency Medicine,1690.83,81
+DE,Southeast,Emergency Medicine,1689.1,31
+MN,Midwest,Nephrology,1685.39,51
+IL,Midwest,Otolaryngology,1682.76,138
+LA,Southeast,Pulmonology,1677.71,44
+IL,Midwest,Nephrology,1676.95,142
+MS,Southeast,Pulmonology,1674.4,25
+WV,Southeast,Otolaryngology,1673.31,26
+NH,Northeast,Endocrinology,1673.02,19
+OH,Midwest,Nephrology,1668.95,97
+MN,Midwest,Neurology,1666.66,65
+ID,West,Otolaryngology,1665.49,21
+NH,Northeast,Otolaryngology,1665.48,26
+ID,West,Neurology,1664.85,18
+WV,Southeast,Emergency Medicine,1664.0,31
+VT,Northeast,Radiology,1663.89,29
+HI,West,Pulmonology,1660.14,24
+FL,Southeast,Neurology,1658.99,203
+MN,Midwest,Emergency Medicine,1656.87,47
+NH,Northeast,Nephrology,1650.62,29
+IN,Midwest,Otolaryngology,1645.72,79
+VA,Southeast,Pulmonology,1643.07,77
+UT,West,Pulmonology,1642.75,41
+MT,West,Radiology,1641.89,23
+UT,West,Radiology,1640.94,59
+KY,Southeast,Pulmonology,1640.9,56
+VT,Northeast,Physical Medicine,1638.02,19
+NH,Northeast,Radiology,1633.0,19
+NY,Northeast,Radiology,1632.52,165
+MI,Midwest,Emergency Medicine,1630.52,91
+WV,Southeast,Pulmonology,1629.77,29
+MO,Midwest,Emergency Medicine,1627.73,85
+NJ,Northeast,Rheumatology,1627.51,102
+ME,Northeast,Obstetrics/Gynecology,1623.24,28
+IL,Midwest,Emergency Medicine,1622.91,133
+VT,Northeast,Rheumatology,1621.84,23
+NC,Southeast,Pulmonology,1621.04,100
+ND,Midwest,Otolaryngology,1620.41,29
+CA,West,Radiology,1616.73,277
+HI,West,Obstetrics/Gynecology,1608.06,27
+MA,Northeast,Rheumatology,1607.11,88
+DE,Southeast,Nephrology,1607.02,26
+VT,Northeast,Pulmonology,1604.7,23
+AR,Southeast,Nephrology,1603.77,15
+LA,Southeast,Nephrology,1602.89,44
+MT,West,Pulmonology,1602.74,12
+OH,Midwest,Otolaryngology,1602.74,94
+WI,Midwest,Nephrology,1601.76,83
+NJ,Northeast,Obstetrics/Gynecology,1600.35,81
+VT,Northeast,Emergency Medicine,1597.85,19
+MI,Midwest,Nephrology,1592.15,105
+WI,Midwest,Emergency Medicine,1590.49,75
+PA,Northeast,Obstetrics/Gynecology,1588.89,124
+MT,West,Rheumatology,1586.38,21
+AZ,Southwest,Infectious Disease,1586.03,89
+WY,West,Radiology,1585.88,26
+WA,West,Infectious Disease,1582.26,89
+WA,West,Rheumatology,1581.68,81
+ID,West,Physical Medicine,1581.03,24
+MA,Northeast,Obstetrics/Gynecology,1580.79,72
+VT,Northeast,Infectious Disease,1577.76,24
+KY,Southeast,Neurology,1574.32,53
+PA,Northeast,Radiology,1573.96,132
+TN,Southeast,Pulmonology,1573.2,77
+WY,West,Obstetrics/Gynecology,1570.91,29
+DE,Southeast,Pulmonology,1566.76,30
+WV,Southeast,Nephrology,1566.26,25
+ME,Northeast,Physical Medicine,1565.96,21
+IL,Midwest,Pulmonology,1562.93,143
+ND,Midwest,Neurology,1561.45,30
+VA,Southeast,Otolaryngology,1560.63,87
+SC,Southeast,Pulmonology,1560.55,55
+AK,West,Obstetrics/Gynecology,1558.7,31
+TX,Southwest,Infectious Disease,1558.67,216
+NV,West,Radiology,1557.74,24
+WY,West,Rheumatology,1557.6,30
+NM,Southwest,Infectious Disease,1555.57,33
+NJ,Northeast,Radiology,1553.78,85
+OR,West,Infectious Disease,1552.8,39
+CO,West,Radiology,1551.31,54
+TN,Southeast,Neurology,1550.68,70
+TX,Southwest,Otolaryngology,1549.7,229
+FL,Southeast,Otolaryngology,1548.63,213
+OK,Southwest,Obstetrics/Gynecology,1548.05,59
+MO,Midwest,Nephrology,1546.98,76
+MI,Midwest,Otolaryngology,1545.22,122
+AL,Southeast,Otolaryngology,1544.24,44
+TN,Southeast,Otolaryngology,1540.24,63
+CT,Northeast,Physical Medicine,1531.74,46
+SC,Southeast,Nephrology,1531.61,52
+WI,Midwest,Otolaryngology,1529.8,72
+OR,West,Radiology,1526.51,46
+ND,Midwest,Nephrology,1524.41,13
+FL,Southeast,Infectious Disease,1521.47,228
+IL,Midwest,Neurology,1521.26,116
+MS,Southeast,Infectious Disease,1518.61,34
+MN,Midwest,Otolaryngology,1517.71,48
+NV,West,Obstetrics/Gynecology,1513.84,24
+GA,Southeast,Emergency Medicine,1512.63,92
+MO,Midwest,Neurology,1509.27,80
+RI,Northeast,Infectious Disease,1508.33,30
+OH,Midwest,Pulmonology,1507.34,103
+RI,Northeast,Rheumatology,1505.69,29
+NC,Southeast,Infectious Disease,1505.07,92
+ID,West,Obstetrics/Gynecology,1501.77,26
+CT,Northeast,Radiology,1501.62,47
+ND,Midwest,Infectious Disease,1500.15,18
+AZ,Southwest,Rheumatology,1497.56,72
+UT,West,Obstetrics/Gynecology,1490.2,50
+SC,Southeast,Infectious Disease,1486.5,50
+RI,Northeast,Ophthalmology,1485.78,18
+GA,Southeast,Infectious Disease,1484.38,112
+NY,Northeast,Rheumatology,1484.35,186
+MA,Northeast,Radiology,1482.88,75
+SC,Southeast,Otolaryngology,1481.21,50
+IA,Midwest,Pulmonology,1480.49,20
+WA,West,Obstetrics/Gynecology,1478.98,72
+AL,Southeast,Pulmonology,1478.44,48
+LA,Southeast,Infectious Disease,1477.02,51
+SD,Midwest,Infectious Disease,1473.93,24
+GA,Southeast,Pulmonology,1469.0,87
+LA,Southeast,Otolaryngology,1468.39,55
+NH,Northeast,Physical Medicine,1468.16,30
+MS,Southeast,Radiology,1467.23,31
+MA,Northeast,Ophthalmology,1467.01,90
+AK,West,Rheumatology,1464.93,28
+WI,Midwest,Pulmonology,1463.32,72
+GA,Southeast,Otolaryngology,1463.12,96
+ME,Northeast,Rheumatology,1461.86,19
+AZ,Southwest,Obstetrics/Gynecology,1461.49,84
+MS,Southeast,Otolaryngology,1460.96,27
+NJ,Northeast,Ophthalmology,1459.23,95
+MO,Midwest,Otolaryngology,1456.94,73
+TN,Southeast,Infectious Disease,1456.47,66
+KS,Midwest,Nephrology,1454.25,21
+OR,West,Rheumatology,1452.87,58
+CO,West,Rheumatology,1452.58,45
+PA,Northeast,Rheumatology,1446.28,124
+MD,Southeast,Infectious Disease,1446.26,73
+NH,Northeast,Ophthalmology,1446.0,27
+NH,Northeast,Obstetrics/Gynecology,1441.49,21
+MD,Southeast,Pulmonology,1440.94,61
+TX,Southwest,Radiology,1440.23,229
+SD,Midwest,Pulmonology,1436.22,21
+ME,Northeast,Infectious Disease,1433.66,24
+NY,Northeast,Obstetrics/Gynecology,1429.68,163
+NY,Northeast,Ophthalmology,1424.84,156
+RI,Northeast,Obstetrics/Gynecology,1424.55,26
+AZ,Southwest,Radiology,1421.57,63
+CA,West,Rheumatology,1419.84,266
+LA,Southeast,Rheumatology,1418.98,57
+MI,Midwest,Pulmonology,1418.69,123
+ID,West,Rheumatology,1416.92,23
+AR,Southeast,Otolaryngology,1410.01,32
+NC,Southeast,Radiology,1404.06,112
+CA,West,Obstetrics/Gynecology,1403.61,279
+CO,West,Obstetrics/Gynecology,1403.35,53
+OH,Midwest,Infectious Disease,1402.46,97
+MO,Midwest,Pulmonology,1396.52,77
+NM,Southwest,Rheumatology,1396.34,26
+VT,Northeast,Obstetrics/Gynecology,1387.26,27
+MD,Southeast,Rheumatology,1387.06,60
+WA,West,Ophthalmology,1385.71,95
+RI,Northeast,Radiology,1384.18,28
+WI,Midwest,Radiology,1383.33,83
+AK,West,Physical Medicine,1381.53,23
+FL,Southeast,Pulmonology,1378.41,184
+ND,Midwest,Pulmonology,1372.55,27
+OK,Southwest,Infectious Disease,1367.83,54
+IN,Midwest,Pulmonology,1367.47,89
+NM,Southwest,Radiology,1367.47,31
+NC,Southeast,Nephrology,1366.17,104
+TN,Southeast,Obstetrics/Gynecology,1365.81,81
+MN,Midwest,Infectious Disease,1357.4,54
+DE,Southeast,Infectious Disease,1356.31,29
+HI,West,Ophthalmology,1355.86,26
+NE,Midwest,Pulmonology,1355.77,19
+UT,West,Infectious Disease,1353.51,43
+IL,Midwest,Infectious Disease,1350.91,113
+ID,West,Ophthalmology,1347.44,29
+CA,West,Ophthalmology,1343.26,263
+IA,Midwest,Infectious Disease,1340.38,25
+SD,Midwest,Otolaryngology,1336.25,18
+CT,Northeast,Rheumatology,1335.73,45
+OR,West,Ophthalmology,1334.41,58
+OR,West,Obstetrics/Gynecology,1332.69,48
+WV,Southeast,Obstetrics/Gynecology,1331.84,32
+DE,Southeast,Radiology,1328.84,18
+NE,Midwest,Emergency Medicine,1326.32,19
+GA,Southeast,Obstetrics/Gynecology,1325.08,112
+DE,Southeast,Rheumatology,1321.31,13
+NC,Southeast,Otolaryngology,1321.28,102
+AL,Southeast,Infectious Disease,1321.16,61
+OK,Southwest,Pulmonology,1320.52,57
+TN,Southeast,Radiology,1312.1,65
+VT,Northeast,Endocrinology,1311.18,34
+ME,Northeast,Ophthalmology,1310.67,22
+WI,Midwest,Rheumatology,1309.13,74
+UT,West,Ophthalmology,1305.62,46
+CO,West,Ophthalmology,1304.2,56
+AL,Southeast,Obstetrics/Gynecology,1303.12,52
+AR,Southeast,Pulmonology,1301.49,27
+KS,Midwest,Radiology,1300.7,25
+KS,Midwest,Otolaryngology,1297.1,20
+VA,Southeast,Radiology,1293.12,61
+NJ,Northeast,Physical Medicine,1291.57,103
+PA,Northeast,Ophthalmology,1289.84,124
+AZ,Southwest,Ophthalmology,1284.95,82
+MO,Midwest,Infectious Disease,1284.83,76
+ND,Midwest,Obstetrics/Gynecology,1284.57,28
+NV,West,Physical Medicine,1282.94,26
+SC,Southeast,Obstetrics/Gynecology,1279.57,56
+OH,Midwest,Radiology,1278.45,105
+NE,Midwest,Otolaryngology,1278.16,25
+NE,Midwest,Radiology,1272.96,29
+OK,Southwest,Radiology,1271.47,46
+TX,Southwest,Rheumatology,1268.91,239
+OK,Southwest,Rheumatology,1266.75,56
+MO,Midwest,Obstetrics/Gynecology,1266.35,70
+MD,Southeast,Obstetrics/Gynecology,1266.21,86
+IN,Midwest,Infectious Disease,1263.59,87
+MS,Southeast,Rheumatology,1263.57,21
+KS,Midwest,Obstetrics/Gynecology,1263.42,26
+TX,Southwest,Obstetrics/Gynecology,1263.42,214
+NJ,Northeast,Endocrinology,1262.36,112
+MT,West,Physical Medicine,1260.84,28
+MN,Midwest,Pulmonology,1259.81,48
+SD,Midwest,Rheumatology,1259.18,17
+CO,West,Physical Medicine,1257.72,49
+SD,Midwest,Nephrology,1253.86,35
+AR,Southeast,Radiology,1250.37,28
+GA,Southeast,Rheumatology,1249.64,115
+CT,Northeast,Obstetrics/Gynecology,1247.39,50
+AL,Southeast,Radiology,1247.23,55
+HI,West,Physical Medicine,1244.99,19
+NC,Southeast,Rheumatology,1243.88,101
+KY,Southeast,Infectious Disease,1243.73,51
+CA,West,Physical Medicine,1243.37,240
+FL,Southeast,Rheumatology,1242.06,197
+WI,Midwest,Infectious Disease,1236.6,58
+VA,Southeast,Infectious Disease,1236.25,69
+SD,Midwest,Obstetrics/Gynecology,1235.43,22
+ID,West,Endocrinology,1235.21,21
+AR,Southeast,Ophthalmology,1233.91,25
+AL,Southeast,Ophthalmology,1229.9,61
+AR,Southeast,Rheumatology,1229.05,25
+IN,Midwest,Rheumatology,1227.15,77
+SC,Southeast,Ophthalmology,1226.4,45
+TX,Southwest,Ophthalmology,1223.05,207
+VA,Southeast,Ophthalmology,1220.65,82
+CT,Northeast,Ophthalmology,1218.78,45
+MD,Southeast,Physical Medicine,1218.44,79
+NM,Southwest,Ophthalmology,1217.86,24
+KY,Southeast,Radiology,1216.92,57
+MI,Midwest,Infectious Disease,1216.48,97
+VT,Northeast,Ophthalmology,1214.11,23
+NY,Northeast,Physical Medicine,1213.51,195
+OR,West,Endocrinology,1209.0,58
+MN,Midwest,Obstetrics/Gynecology,1208.75,53
+FL,Southeast,Radiology,1204.9,200
+ME,Northeast,Psychiatry,1204.65,23
+FL,Southeast,Obstetrics/Gynecology,1204.04,193
+LA,Southeast,Obstetrics/Gynecology,1200.77,37
+GA,Southeast,Radiology,1198.37,102
+LA,Southeast,Radiology,1197.21,53
+IA,Midwest,Radiology,1193.19,27
+AR,Southeast,Obstetrics/Gynecology,1190.53,23
+TN,Southeast,Rheumatology,1190.44,71
+AK,West,Endocrinology,1189.95,28
+NV,West,Ophthalmology,1188.26,23
+NM,Southwest,Physical Medicine,1186.29,25
+KY,Southeast,Rheumatology,1185.02,48
+SC,Southeast,Radiology,1178.26,52
+VA,Southeast,Rheumatology,1176.56,68
+WA,West,Physical Medicine,1176.52,69
+TN,Southeast,Ophthalmology,1176.15,68
+IL,Midwest,Rheumatology,1172.84,132
+NE,Midwest,Obstetrics/Gynecology,1170.48,25
+MN,Midwest,Rheumatology,1170.35,50
+VA,Southeast,Obstetrics/Gynecology,1168.4,80
+IN,Midwest,Radiology,1166.88,67
+NC,Southeast,Ophthalmology,1164.65,103
+NC,Southeast,Obstetrics/Gynecology,1162.25,86
+IL,Midwest,Radiology,1160.04,115
+WV,Southeast,Radiology,1158.31,26
+MO,Midwest,Radiology,1155.89,72
+UT,West,Endocrinology,1155.48,38
+MD,Southeast,Radiology,1155.07,84
+WI,Midwest,Ophthalmology,1154.76,81
+VT,Northeast,Psychiatry,1153.14,22
+PA,Northeast,Physical Medicine,1152.32,134
+CO,West,Endocrinology,1145.82,48
+UT,West,Rheumatology,1145.48,51
+MI,Midwest,Obstetrics/Gynecology,1142.81,124
+DE,Southeast,Obstetrics/Gynecology,1141.12,24
+AL,Southeast,Rheumatology,1140.6,46
+IA,Midwest,Physical Medicine,1139.78,24
+PA,Northeast,Endocrinology,1138.76,111
+MI,Midwest,Radiology,1136.3,101
+SC,Southeast,Rheumatology,1136.15,55
+MN,Midwest,Radiology,1132.43,54
+NM,Southwest,Endocrinology,1132.36,19
+TX,Southwest,Physical Medicine,1131.44,254
+WY,West,Endocrinology,1128.43,26
+MS,Southeast,Ophthalmology,1128.35,34
+IN,Midwest,Obstetrics/Gynecology,1125.92,68
+MO,Midwest,Ophthalmology,1125.11,89
+RI,Northeast,Allergy/Immunology,1119.4,20
+MA,Northeast,Physical Medicine,1117.94,73
+NY,Northeast,Endocrinology,1117.94,187
+ND,Midwest,Radiology,1116.82,23
+AZ,Southwest,Endocrinology,1114.64,79
+NH,Northeast,Allergy/Immunology,1112.59,23
+MI,Midwest,Rheumatology,1111.81,119
+IL,Midwest,Obstetrics/Gynecology,1110.82,127
+WA,West,Endocrinology,1107.46,82
+OK,Southwest,Ophthalmology,1106.6,38
+IA,Midwest,Ophthalmology,1103.96,24
+NE,Midwest,Physical Medicine,1094.46,31
+RI,Northeast,Endocrinology,1092.01,28
+KY,Southeast,Physical Medicine,1090.36,52
+WY,West,Ophthalmology,1086.77,28
+OH,Midwest,Ophthalmology,1079.01,119
+DE,Southeast,Ophthalmology,1078.83,28
+SC,Southeast,Physical Medicine,1078.08,55
+KS,Midwest,Rheumatology,1077.7,23
+AK,West,Allergy/Immunology,1077.18,28
+WY,West,Physical Medicine,1074.64,34
+KY,Southeast,Ophthalmology,1071.65,72
+PA,Northeast,Psychiatry,1068.26,109
+HI,West,Psychiatry,1067.71,24
+RI,Northeast,Physical Medicine,1066.58,26
+GA,Southeast,Physical Medicine,1065.99,104
+OR,West,Physical Medicine,1063.36,56
+NV,West,Endocrinology,1062.18,24
+KY,Southeast,Obstetrics/Gynecology,1060.36,51
+MD,Southeast,Ophthalmology,1060.24,84
+OH,Midwest,Rheumatology,1058.22,108
+KY,Southeast,Endocrinology,1057.93,49
+MN,Midwest,Ophthalmology,1055.68,45
+SD,Midwest,Endocrinology,1055.01,21
+WI,Midwest,Obstetrics/Gynecology,1054.24,79
+AL,Southeast,Physical Medicine,1051.82,71
+IL,Midwest,Ophthalmology,1050.24,129
+WV,Southeast,Physical Medicine,1049.44,21
+UT,West,Physical Medicine,1046.74,58
+DE,Southeast,Psychiatry,1045.02,19
+KS,Midwest,Infectious Disease,1044.81,20
+CT,Northeast,Endocrinology,1044.01,46
+IA,Midwest,Rheumatology,1043.4,15
+MT,West,Ophthalmology,1042.34,14
+ND,Midwest,Ophthalmology,1036.46,19
+FL,Southeast,Ophthalmology,1036.27,193
+MA,Northeast,Endocrinology,1034.75,74
+FL,Southeast,Physical Medicine,1032.45,214
+MS,Southeast,Obstetrics/Gynecology,1029.41,29
+AZ,Southwest,Physical Medicine,1021.27,73
+ND,Midwest,Rheumatology,1021.19,26
+MT,West,Allergy/Immunology,1021.04,27
+WV,Southeast,Ophthalmology,1019.73,28
+NJ,Northeast,Psychiatry,1019.46,122
+HI,West,Allergy/Immunology,1013.08,22
+GA,Southeast,Ophthalmology,1012.88,103
+MO,Midwest,Rheumatology,1012.53,83
+IA,Midwest,Obstetrics/Gynecology,1010.32,27
+NM,Southwest,Obstetrics/Gynecology,1006.7,29
+ID,West,Allergy/Immunology,1003.19,18
+OH,Midwest,Obstetrics/Gynecology,1002.87,96
+OK,Southwest,Physical Medicine,1000.58,58
+VA,Southeast,Physical Medicine,998.82,75
+NV,West,Psychiatry,998.5,28
+AL,Southeast,Endocrinology,995.91,39
+WA,West,Psychiatry,995.07,78
+WY,West,Psychiatry,993.59,22
+IN,Midwest,Ophthalmology,993.24,76
+GA,Southeast,Endocrinology,987.21,83
+CA,West,Endocrinology,984.33,229
+ID,West,Psychiatry,981.19,21
+MI,Midwest,Physical Medicine,981.13,100
+NY,Northeast,Psychiatry,980.92,189
+CT,Northeast,Allergy/Immunology,978.38,42
+WV,Southeast,Endocrinology,976.25,31
+NC,Southeast,Physical Medicine,976.2,88
+CO,West,Psychiatry,976.18,44
+DE,Southeast,Endocrinology,974.28,23
+NE,Midwest,Ophthalmology,973.6,26
+CT,Northeast,Psychiatry,973.06,44
+IL,Midwest,Physical Medicine,969.29,113
+MO,Midwest,Physical Medicine,968.9,78
+TX,Southwest,Endocrinology,967.37,232
+MN,Midwest,Physical Medicine,966.75,44
+VA,Southeast,Endocrinology,966.18,81
+AZ,Southwest,Allergy/Immunology,964.44,69
+OH,Midwest,Physical Medicine,962.5,96
+FL,Southeast,Endocrinology,961.64,215
+MA,Northeast,Allergy/Immunology,960.52,67
+MI,Midwest,Ophthalmology,960.52,85
+MT,West,Endocrinology,958.61,25
+CA,West,Psychiatry,956.1,268
+TN,Southeast,Physical Medicine,952.67,74
+CA,West,Allergy/Immunology,952.06,240
+VT,Northeast,Allergy/Immunology,947.96,36
+WV,Southeast,Psychiatry,946.73,30
+PA,Northeast,Allergy/Immunology,944.66,125
+ME,Northeast,Allergy/Immunology,936.24,21
+MA,Northeast,Psychiatry,934.49,81
+NC,Southeast,Endocrinology,934.36,105
+UT,West,Geriatrics,931.89,61
+NM,Southwest,Psychiatry,930.99,28
+SC,Southeast,Endocrinology,929.92,53
+NH,Northeast,Geriatrics,928.61,30
+ME,Northeast,Endocrinology,925.79,29
+NE,Midwest,Rheumatology,923.63,32
+LA,Southeast,Ophthalmology,922.83,44
+OK,Southwest,Psychiatry,922.59,48
+NY,Northeast,Allergy/Immunology,921.74,190
+WI,Midwest,Physical Medicine,919.93,75
+SD,Midwest,Radiology,918.03,36
+RI,Northeast,Psychiatry,913.42,23
+LA,Southeast,Physical Medicine,909.72,63
+LA,Southeast,Endocrinology,907.76,45
+CO,West,Geriatrics,906.66,56
+MA,Northeast,Geriatrics,906.11,90
+IL,Midwest,Endocrinology,904.47,126
+NY,Northeast,Geriatrics,904.41,165
+RI,Northeast,Dermatology,900.81,27
+OR,West,Psychiatry,900.65,52
+NM,Southwest,Allergy/Immunology,900.55,19
+PA,Northeast,Geriatrics,897.07,134
+SD,Midwest,Physical Medicine,895.74,28
+UT,West,Allergy/Immunology,895.5,53
+OH,Midwest,Endocrinology,894.96,96
+DE,Southeast,Physical Medicine,894.54,19
+UT,West,Psychiatry,890.43,52
+MO,Midwest,Endocrinology,890.14,79
+OR,West,Geriatrics,888.69,51
+MS,Southeast,Physical Medicine,888.62,22
+NV,West,Geriatrics,887.55,22
+OR,West,Allergy/Immunology,887.36,57
+OK,Southwest,Endocrinology,887.24,45
+NJ,Northeast,Geriatrics,886.55,108
+CO,West,Allergy/Immunology,883.89,50
+NJ,Northeast,Allergy/Immunology,877.04,109
+SD,Midwest,Allergy/Immunology,875.84,28
+WA,West,Allergy/Immunology,872.25,74
+WY,West,Allergy/Immunology,871.22,28
+NV,West,Allergy/Immunology,870.88,24
+MO,Midwest,Psychiatry,869.04,70
+TN,Southeast,Endocrinology,865.53,94
+RI,Northeast,Geriatrics,861.68,33
+ME,Northeast,Dermatology,859.61,32
+AR,Southeast,Physical Medicine,858.83,19
+ND,Midwest,Physical Medicine,857.54,23
+IA,Midwest,Psychiatry,857.38,25
+AK,West,Psychiatry,855.62,31
+VT,Northeast,Geriatrics,854.74,29
+AK,West,Geriatrics,848.96,19
+PA,Northeast,Dermatology,848.36,115
+IN,Midwest,Physical Medicine,846.79,65
+AR,Southeast,Geriatrics,841.27,33
+NY,Northeast,Dermatology,839.59,194
+MT,West,Psychiatry,839.21,21
+VT,Northeast,Dermatology,838.74,28
+MD,Southeast,Endocrinology,837.55,77
+MS,Southeast,Allergy/Immunology,837.39,24
+TX,Southwest,Geriatrics,837.25,248
+TN,Southeast,Psychiatry,835.88,72
+MN,Midwest,Endocrinology,831.78,53
+CT,Northeast,Geriatrics,828.45,48
+HI,West,Dermatology,828.45,27
+LA,Southeast,Psychiatry,827.22,44
+WI,Midwest,Endocrinology,826.37,79
+HI,West,Geriatrics,825.21,26
+VA,Southeast,Allergy/Immunology,822.77,65
+NH,Northeast,Internal Medicine,820.63,16
+MD,Southeast,Psychiatry,820.22,79
+ME,Northeast,Geriatrics,818.02,22
+FL,Southeast,Psychiatry,817.57,191
+CA,West,Geriatrics,817.21,232
+WY,West,Internal Medicine,816.68,35
+MD,Southeast,Allergy/Immunology,810.43,83
+OK,Southwest,Allergy/Immunology,810.32,51
+WV,Southeast,Rheumatology,810.11,14
+KY,Southeast,Psychiatry,809.68,56
+IN,Midwest,Psychiatry,809.39,79
+NC,Southeast,Psychiatry,809.28,112
+NJ,Northeast,Dermatology,808.76,95
+CA,West,Dermatology,808.27,239
+CO,West,Dermatology,806.69,47
+IA,Midwest,Endocrinology,805.79,20
+AL,Southeast,Psychiatry,805.69,53
+SD,Midwest,Psychiatry,804.81,29
+ND,Midwest,Psychiatry,804.71,19
+TX,Southwest,Psychiatry,804.02,234
+MA,Northeast,Dermatology,803.3,82
+AZ,Southwest,Psychiatry,800.92,74
+HI,West,Endocrinology,800.64,25
+ND,Midwest,Endocrinology,799.8,25
+SD,Midwest,Ophthalmology,798.77,28
+UT,West,Dermatology,798.6,56
+GA,Southeast,Psychiatry,798.41,96
+VA,Southeast,Psychiatry,796.81,85
+AR,Southeast,Endocrinology,796.69,24
+MI,Midwest,Endocrinology,792.47,117
+TX,Southwest,Allergy/Immunology,789.33,216
+AR,Southeast,Psychiatry,787.72,31
+AL,Southeast,Geriatrics,787.27,47
+WV,Southeast,Allergy/Immunology,787.14,25
+CT,Northeast,Dermatology,785.13,48
+MS,Southeast,Endocrinology,784.85,34
+IN,Midwest,Geriatrics,782.87,62
+LA,Southeast,Allergy/Immunology,782.51,43
+KY,Southeast,Allergy/Immunology,781.2,50
+MI,Midwest,Psychiatry,778.11,102
+NE,Midwest,Psychiatry,775.08,25
+AK,West,Dermatology,773.57,22
+MN,Midwest,Psychiatry,772.74,57
+IA,Midwest,Geriatrics,771.52,26
+MT,West,Geriatrics,768.72,23
+FL,Southeast,Allergy/Immunology,768.03,217
+TN,Southeast,Geriatrics,766.22,60
+WA,West,Geriatrics,764.53,91
+MS,Southeast,Psychiatry,763.2,27
+WI,Midwest,Psychiatry,762.18,81
+KS,Midwest,Endocrinology,761.22,36
+SC,Southeast,Allergy/Immunology,756.28,58
+IL,Midwest,Psychiatry,755.55,131
+ID,West,Dermatology,755.06,21
+TN,Southeast,Allergy/Immunology,752.83,90
+AZ,Southwest,Geriatrics,750.57,68
+TN,Southeast,Dermatology,748.47,72
+SC,Southeast,Psychiatry,747.46,46
+WI,Midwest,Allergy/Immunology,745.63,98
+WA,West,Dermatology,744.79,80
+NH,Northeast,Psychiatry,743.61,20
+NY,Northeast,Internal Medicine,742.49,178
+KY,Southeast,Geriatrics,740.81,40
+OH,Midwest,Psychiatry,737.07,96
+SC,Southeast,Geriatrics,733.87,43
+TX,Southwest,Dermatology,733.26,233
+NV,West,Dermatology,732.47,33
+SD,Midwest,Geriatrics,730.42,22
+OR,West,Dermatology,728.44,53
+IL,Midwest,Allergy/Immunology,727.76,123
+PA,Northeast,Internal Medicine,725.8,132
+SC,Southeast,Dermatology,725.2,49
+MO,Midwest,Allergy/Immunology,725.11,80
+IN,Midwest,Allergy/Immunology,724.36,71
+MI,Midwest,Allergy/Immunology,716.1,117
+ME,Northeast,Internal Medicine,715.7,30
+MA,Northeast,Internal Medicine,714.54,79
+NC,Southeast,Geriatrics,714.31,93
+OK,Southwest,Geriatrics,711.28,51
+WV,Southeast,Dermatology,711.21,16
+NV,West,Internal Medicine,711.12,21
+AL,Southeast,Allergy/Immunology,710.98,49
+NH,Northeast,Dermatology,709.37,22
+MN,Midwest,Allergy/Immunology,708.5,43
+WY,West,Dermatology,708.28,23
+HI,West,Internal Medicine,707.84,29
+GA,Southeast,Allergy/Immunology,707.67,87
+WA,West,Internal Medicine,706.47,75
+DE,Southeast,Allergy/Immunology,703.57,21
+GA,Southeast,Geriatrics,702.76,107
+VT,Northeast,Internal Medicine,702.45,33
+NC,Southeast,Allergy/Immunology,701.29,108
+MO,Midwest,Geriatrics,699.81,74
+MT,West,Dermatology,699.19,25
+ND,Midwest,Dermatology,694.53,28
+IN,Midwest,Endocrinology,691.72,91
+WV,Southeast,Geriatrics,690.65,21
+KS,Midwest,Psychiatry,689.07,20
+IA,Midwest,Allergy/Immunology,687.71,26
+MN,Midwest,Geriatrics,684.84,42
+CA,West,Internal Medicine,683.67,236
+AR,Southeast,Dermatology,682.76,28
+NE,Midwest,Endocrinology,682.71,19
+OK,Southwest,Dermatology,681.79,47
+KS,Midwest,Ophthalmology,681.31,23
+AZ,Southwest,Dermatology,681.15,74
+DE,Southeast,Geriatrics,680.44,22
+OR,West,Internal Medicine,679.76,56
+LA,Southeast,Geriatrics,679.49,58
+UT,West,Internal Medicine,677.46,49
+FL,Southeast,Geriatrics,676.34,215
+RI,Northeast,Internal Medicine,673.41,19
+KS,Midwest,Physical Medicine,671.16,17
+VA,Southeast,Geriatrics,670.5,82
+NM,Southwest,Geriatrics,668.76,28
+NE,Midwest,Geriatrics,668.73,27
+ND,Midwest,Geriatrics,666.94,22
+LA,Southeast,Dermatology,666.93,48
+CO,West,Internal Medicine,665.08,44
+MI,Midwest,Geriatrics,665.01,100
+MD,Southeast,Dermatology,663.33,76
+NM,Southwest,Internal Medicine,661.86,29
+KS,Midwest,Allergy/Immunology,661.4,28
+OH,Midwest,Geriatrics,660.28,107
+MS,Southeast,Geriatrics,659.78,23
+AR,Southeast,Allergy/Immunology,658.12,34
+IL,Midwest,Dermatology,657.18,134
+GA,Southeast,Dermatology,657.06,88
+IA,Midwest,Dermatology,656.55,25
+AK,West,Internal Medicine,656.47,24
+ID,West,Geriatrics,655.66,25
+OH,Midwest,Allergy/Immunology,651.77,103
+SD,Midwest,Dermatology,644.27,33
+KS,Midwest,Dermatology,643.49,29
+IL,Midwest,Geriatrics,642.7,145
+OH,Midwest,Dermatology,640.09,99
+WI,Midwest,Geriatrics,638.25,86
+NJ,Northeast,Internal Medicine,636.68,114
+NE,Midwest,Allergy/Immunology,635.87,25
+MN,Midwest,Dermatology,634.29,49
+VA,Southeast,Dermatology,632.37,85
+WI,Midwest,Dermatology,630.49,90
+KY,Southeast,Dermatology,629.27,49
+TX,Southwest,Internal Medicine,620.47,225
+NM,Southwest,Dermatology,620.14,27
+WY,West,Geriatrics,612.59,26
+AL,Southeast,Internal Medicine,609.22,54
+FL,Southeast,Dermatology,608.21,193
+MD,Southeast,Geriatrics,606.18,68
+MO,Midwest,Dermatology,605.72,74
+NC,Southeast,Dermatology,603.63,92
+WI,Midwest,Internal Medicine,602.75,57
+KS,Midwest,Geriatrics,598.8,22
+AZ,Southwest,Internal Medicine,594.16,86
+CT,Northeast,Internal Medicine,592.53,52
+AL,Southeast,Dermatology,584.67,65
+MS,Southeast,Dermatology,583.86,33
+MT,West,Pediatrics,582.23,30
+NE,Midwest,Dermatology,576.86,24
+MO,Midwest,Internal Medicine,574.59,60
+MI,Midwest,Dermatology,570.9,106
+IA,Midwest,Internal Medicine,570.63,20
+KY,Southeast,Internal Medicine,570.25,59
+SD,Midwest,Internal Medicine,568.58,29
+DE,Southeast,Dermatology,568.49,23
+VT,Northeast,Pediatrics,568.33,31
+LA,Southeast,Internal Medicine,568.07,46
+FL,Southeast,Internal Medicine,567.83,203
+MS,Southeast,Internal Medicine,562.56,24
+OK,Southwest,Internal Medicine,560.85,51
+OH,Midwest,Internal Medicine,559.77,97
+ND,Midwest,Internal Medicine,556.5,27
+MT,West,Internal Medicine,554.66,27
+KS,Midwest,Internal Medicine,553.4,28
+NC,Southeast,Internal Medicine,553.21,113
+ND,Midwest,Allergy/Immunology,552.22,28
+IN,Midwest,Dermatology,550.41,75
+ID,West,Internal Medicine,550.04,19
+MA,Northeast,Pediatrics,548.65,75
+ID,West,Pediatrics,547.97,28
+TN,Southeast,Internal Medicine,547.28,60
+NV,West,Pediatrics,546.44,22
+GA,Southeast,Internal Medicine,540.64,109
+IL,Midwest,Internal Medicine,539.04,139
+HI,West,Pediatrics,523.83,31
+VA,Southeast,Internal Medicine,523.11,81
+MI,Midwest,Internal Medicine,522.82,88
+IN,Midwest,Internal Medicine,517.59,82
+RI,Northeast,Pediatrics,517.23,30
+NM,Southwest,Pediatrics,516.98,23
+MD,Southeast,Internal Medicine,514.58,111
+AR,Southeast,Internal Medicine,498.31,21
+PA,Northeast,Pediatrics,496.19,123
+AK,West,Pediatrics,494.36,21
+NJ,Northeast,Pediatrics,492.39,100
+VT,Northeast,Family Medicine,488.52,16
+WA,West,Pediatrics,487.17,87
+SD,Midwest,Pediatrics,483.96,19
+NY,Northeast,Pediatrics,480.67,182
+ME,Northeast,Pediatrics,480.14,25
+CA,West,Pediatrics,480.08,237
+CO,West,Pediatrics,474.63,46
+WA,West,Family Medicine,471.22,69
+MA,Northeast,Family Medicine,465.62,70
+MN,Midwest,Internal Medicine,463.4,53
+NE,Midwest,Internal Medicine,459.13,20
+NH,Northeast,Family Medicine,458.41,25
+NH,Northeast,Pediatrics,458.23,26
+DE,Southeast,Internal Medicine,456.63,19
+ID,West,Family Medicine,456.04,27
+WY,West,Family Medicine,455.73,32
+CT,Northeast,Pediatrics,455.45,49
+NY,Northeast,Family Medicine,449.37,180
+UT,West,Pediatrics,447.91,47
+OK,Southwest,Family Medicine,447.79,50
+VA,Southeast,Pediatrics,447.56,64
+UT,West,Family Medicine,445.58,72
+WV,Southeast,Internal Medicine,442.95,25
+OR,West,Pediatrics,442.2,37
+AZ,Southwest,Family Medicine,439.07,76
+NV,West,Family Medicine,435.93,34
+TX,Southwest,Pediatrics,435.46,231
+OK,Southwest,Pediatrics,434.05,47
+GA,Southeast,Pediatrics,433.81,100
+NJ,Northeast,Family Medicine,427.82,106
+ND,Midwest,Pediatrics,422.44,27
+PA,Northeast,Family Medicine,421.4,148
+CO,West,Family Medicine,421.36,52
+SC,Southeast,Internal Medicine,417.32,51
+MD,Southeast,Pediatrics,417.15,85
+MT,West,Family Medicine,416.19,36
+CT,Northeast,Family Medicine,414.03,50
+TN,Southeast,Pediatrics,413.09,88
+OR,West,Family Medicine,412.22,59
+AL,Southeast,Pediatrics,409.58,61
+AZ,Southwest,Pediatrics,408.28,74
+CA,West,Family Medicine,405.65,250
+MS,Southeast,Pediatrics,403.71,26
+MO,Midwest,Pediatrics,402.67,90
+ME,Northeast,Family Medicine,400.29,21
+NC,Southeast,Pediatrics,399.87,83
+AR,Southeast,Pediatrics,395.16,30
+WI,Midwest,Pediatrics,395.12,87
+LA,Southeast,Pediatrics,394.35,41
+HI,West,Family Medicine,390.92,23
+FL,Southeast,Pediatrics,388.19,237
+OH,Midwest,Pediatrics,388.12,127
+IA,Midwest,Pediatrics,386.72,23
+NM,Southwest,Family Medicine,385.3,33
+IN,Midwest,Pediatrics,385.04,79
+TX,Southwest,Family Medicine,384.38,212
+KS,Midwest,Pediatrics,383.06,17
+AK,West,Family Medicine,379.61,17
+IL,Midwest,Pediatrics,377.34,122
+KY,Southeast,Pediatrics,375.87,50
+MO,Midwest,Family Medicine,368.38,63
+GA,Southeast,Family Medicine,364.02,83
+MS,Southeast,Family Medicine,353.1,26
+WY,West,Pediatrics,352.09,20
+OH,Midwest,Family Medicine,349.46,113
+MN,Midwest,Pediatrics,348.34,48
+MI,Midwest,Pediatrics,347.83,89
+MD,Southeast,Family Medicine,345.76,92
+IL,Midwest,Family Medicine,344.16,146
+LA,Southeast,Family Medicine,342.18,56
+WV,Southeast,Pediatrics,342.06,25
+NE,Midwest,Pediatrics,341.56,25
+FL,Southeast,Family Medicine,341.48,189
+SC,Southeast,Pediatrics,341.36,45
+DE,Southeast,Pediatrics,341.35,23
+IN,Midwest,Family Medicine,340.86,73
+KY,Southeast,Family Medicine,339.76,53
+WV,Southeast,Family Medicine,338.19,24
+TN,Southeast,Family Medicine,336.89,76
+VA,Southeast,Family Medicine,336.24,69
+SD,Midwest,Family Medicine,332.81,30
+MN,Midwest,Family Medicine,330.17,55
+SC,Southeast,Family Medicine,326.65,44
+RI,Northeast,Family Medicine,324.01,22
+NC,Southeast,Family Medicine,323.31,102
+ND,Midwest,Family Medicine,319.84,28
+KS,Midwest,Family Medicine,313.07,25
+MI,Midwest,Family Medicine,309.97,102
+DE,Southeast,Family Medicine,309.0,22
+AR,Southeast,Family Medicine,302.39,23
+WI,Midwest,Family Medicine,293.84,48
+AL,Southeast,Family Medicine,285.21,59
+NE,Midwest,Family Medicine,284.79,27
+IA,Midwest,Family Medicine,281.09,25

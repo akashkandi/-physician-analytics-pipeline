@@ -1,0 +1,19 @@
+============================================================
+Outlier Physician Insights
+Generated: 2026-03-25 23:31
+============================================================
+
+The most surprising finding is that among the top 100 outlier physicians, 100
+are billing at extreme premiums -- the most extreme case, Dr. Rivera Brian in
+Dermatology (CA), has a z-score of 9.1, meaning their
+cost is 9.1 standard deviations above their specialty mean.
+
+For patients, being referred to one of these expensive outliers rather than a comparable
+standard-practice provider can mean paying $4,765 more
+per episode of care; this level of billing anomaly often correlates with upcoding or
+unnecessary procedure ordering rather than genuine clinical complexity.
+
+Healthcare compliance teams should flag all providers with |z-score| > 5.6 for
+immediate chart review, with particular attention to the 100 high-cost outliers
+whose charge-to-payment ratios exceed 3.0, as these represent the highest financial-risk
+and regulatory-exposure cases.
